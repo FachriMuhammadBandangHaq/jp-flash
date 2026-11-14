@@ -1,0 +1,13 @@
+{
+  "source": "OpenJLPT",
+  "sourceVersion": "0.3.0",
+  "sourceCommit": "0d1d341",
+  "license": "CC BY-SA 4.0",
+  "vocabLevels": [
+    "N5"
+  ],
+  "counts": {
+    "kanji": 416,
+    "vocabulary": 674
+  }
+}
