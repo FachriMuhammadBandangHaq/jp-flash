@@ -1,0 +1,8644 @@
+[
+  {
+    "id": "日",
+    "character": "日",
+    "meanings": [
+      "day",
+      "sun",
+      "Japan",
+      "counter for days"
+    ],
+    "onyomi": [
+      "ニチ",
+      "ジツ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "-か"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "日"
+  },
+  {
+    "id": "一",
+    "character": "一",
+    "meanings": [
+      "one",
+      "one radical (no.1)"
+    ],
+    "onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "kunyomi": [
+      "ひと-",
+      "ひと.つ"
+    ],
+    "strokeCount": 1,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "一"
+  },
+  {
+    "id": "国",
+    "character": "国",
+    "meanings": [
+      "country"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くに"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "囗"
+  },
+  {
+    "id": "人",
+    "character": "人",
+    "meanings": [
+      "person"
+    ],
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "kunyomi": [
+      "ひと",
+      "-り",
+      "-と"
+    ],
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "人"
+  },
+  {
+    "id": "年",
+    "character": "年",
+    "meanings": [
+      "year",
+      "counter for years"
+    ],
+    "onyomi": [
+      "ネン"
+    ],
+    "kunyomi": [
+      "とし"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "干"
+  },
+  {
+    "id": "大",
+    "character": "大",
+    "meanings": [
+      "large",
+      "big"
+    ],
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "おお-",
+      "おお.きい",
+      "-おお.いに"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "大"
+  },
+  {
+    "id": "十",
+    "character": "十",
+    "meanings": [
+      "ten"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "ジッ",
+      "ジュッ"
+    ],
+    "kunyomi": [
+      "とお",
+      "と",
+      "そ"
+    ],
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "十"
+  },
+  {
+    "id": "二",
+    "character": "二",
+    "meanings": [
+      "two",
+      "two radical (no. 7)"
+    ],
+    "onyomi": [
+      "ニ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "ふた",
+      "ふた.つ",
+      "ふたたび"
+    ],
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "二"
+  },
+  {
+    "id": "本",
+    "character": "本",
+    "meanings": [
+      "book",
+      "present",
+      "main",
+      "origin",
+      "true",
+      "real",
+      "counter for long cylindrical things"
+    ],
+    "onyomi": [
+      "ホン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "木"
+  },
+  {
+    "id": "中",
+    "character": "中",
+    "meanings": [
+      "in",
+      "inside",
+      "middle",
+      "mean",
+      "center"
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "なか",
+      "うち",
+      "あた.る"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "丨"
+  },
+  {
+    "id": "長",
+    "character": "長",
+    "meanings": [
+      "long",
+      "leader",
+      "superior",
+      "senior"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "なが.い",
+      "おさ"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "長"
+  },
+  {
+    "id": "出",
+    "character": "出",
+    "meanings": [
+      "exit",
+      "leave",
+      "go out",
+      "come out",
+      "put out",
+      "protrude"
+    ],
+    "onyomi": [
+      "シュツ",
+      "スイ"
+    ],
+    "kunyomi": [
+      "で.る",
+      "-で",
+      "だ.す",
+      "-だ.す",
+      "い.でる",
+      "い.だす"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "凵"
+  },
+  {
+    "id": "三",
+    "character": "三",
+    "meanings": [
+      "three"
+    ],
+    "onyomi": [
+      "サン",
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "み",
+      "み.つ",
+      "みっ.つ"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "一"
+  },
+  {
+    "id": "時",
+    "character": "時",
+    "meanings": [
+      "time",
+      "hour"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "とき",
+      "-どき"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "日"
+  },
+  {
+    "id": "行",
+    "character": "行",
+    "meanings": [
+      "going",
+      "journey",
+      "carry out",
+      "conduct",
+      "act",
+      "line",
+      "row",
+      "bank"
+    ],
+    "onyomi": [
+      "コウ",
+      "ギョウ",
+      "アン"
+    ],
+    "kunyomi": [
+      "い.く",
+      "ゆ.く",
+      "-ゆ.き",
+      "-ゆき",
+      "-い.き",
+      "-いき",
+      "おこな.う",
+      "おこ.なう"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "行"
+  },
+  {
+    "id": "見",
+    "character": "見",
+    "meanings": [
+      "see",
+      "hopes",
+      "chances",
+      "idea",
+      "opinion",
+      "look at",
+      "visible"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "み.る",
+      "み.える",
+      "み.せる"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "見"
+  },
+  {
+    "id": "月",
+    "character": "月",
+    "meanings": [
+      "month",
+      "moon"
+    ],
+    "onyomi": [
+      "ゲツ",
+      "ガツ"
+    ],
+    "kunyomi": [
+      "つき"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "月"
+  },
+  {
+    "id": "分",
+    "character": "分",
+    "meanings": [
+      "part",
+      "minute of time",
+      "segment",
+      "share",
+      "degree",
+      "one's lot",
+      "duty",
+      "understand",
+      "know",
+      "rate",
+      "1%",
+      "chances",
+      "shaku/100"
+    ],
+    "onyomi": [
+      "ブン",
+      "フン",
+      "ブ"
+    ],
+    "kunyomi": [
+      "わ.ける",
+      "わ.け",
+      "わ.かれる",
+      "わ.かる",
+      "わ.かつ"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "刀"
+  },
+  {
+    "id": "後",
+    "character": "後",
+    "meanings": [
+      "behind",
+      "back",
+      "later"
+    ],
+    "onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "kunyomi": [
+      "のち",
+      "うし.ろ",
+      "うしろ",
+      "あと",
+      "おく.れる"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "彳"
+  },
+  {
+    "id": "前",
+    "character": "前",
+    "meanings": [
+      "in front",
+      "before"
+    ],
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まえ",
+      "-まえ"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "刀"
+  },
+  {
+    "id": "生",
+    "character": "生",
+    "meanings": [
+      "life",
+      "genuine",
+      "birth"
+    ],
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "い.きる",
+      "い.かす",
+      "い.ける",
+      "う.まれる",
+      "うま.れる",
+      "う.まれ",
+      "うまれ",
+      "う.む",
+      "お.う",
+      "は.える",
+      "は.やす",
+      "き",
+      "なま",
+      "なま-",
+      "な.る",
+      "な.す",
+      "む.す",
+      "-う"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "生"
+  },
+  {
+    "id": "五",
+    "character": "五",
+    "meanings": [
+      "five"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "いつ",
+      "いつ.つ"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "二"
+  },
+  {
+    "id": "間",
+    "character": "間",
+    "meanings": [
+      "interval",
+      "space"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "kunyomi": [
+      "あいだ",
+      "ま",
+      "あい"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "門"
+  },
+  {
+    "id": "上",
+    "character": "上",
+    "meanings": [
+      "above",
+      "up"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "ショウ",
+      "シャン"
+    ],
+    "kunyomi": [
+      "うえ",
+      "-うえ",
+      "うわ-",
+      "かみ",
+      "あ.げる",
+      "-あ.げる",
+      "あ.がる",
+      "-あ.がる",
+      "あ.がり",
+      "-あ.がり",
+      "のぼ.る",
+      "のぼ.り",
+      "のぼ.せる",
+      "のぼ.す",
+      "たてまつ.る"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "一"
+  },
+  {
+    "id": "東",
+    "character": "東",
+    "meanings": [
+      "east"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ひがし"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "木"
+  },
+  {
+    "id": "四",
+    "character": "四",
+    "meanings": [
+      "four"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よ.つ",
+      "よっ.つ",
+      "よん"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "囗"
+  },
+  {
+    "id": "今",
+    "character": "今",
+    "meanings": [
+      "now"
+    ],
+    "onyomi": [
+      "コン",
+      "キン"
+    ],
+    "kunyomi": [
+      "いま"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "人"
+  },
+  {
+    "id": "金",
+    "character": "金",
+    "meanings": [
+      "gold"
+    ],
+    "onyomi": [
+      "キン",
+      "コン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "かね",
+      "かな-",
+      "-がね"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "金"
+  },
+  {
+    "id": "九",
+    "character": "九",
+    "meanings": [
+      "nine"
+    ],
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "ここの",
+      "ここの.つ"
+    ],
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "乙"
+  },
+  {
+    "id": "入",
+    "character": "入",
+    "meanings": [
+      "enter",
+      "insert"
+    ],
+    "onyomi": [
+      "ニュウ",
+      "ジュ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "-い.る",
+      "-い.り",
+      "い.れる",
+      "-い.れ",
+      "はい.る"
+    ],
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "入"
+  },
+  {
+    "id": "学",
+    "character": "学",
+    "meanings": [
+      "study",
+      "learning",
+      "science"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "kunyomi": [
+      "まな.ぶ"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "子"
+  },
+  {
+    "id": "高",
+    "character": "高",
+    "meanings": [
+      "tall",
+      "high",
+      "expensive"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "たか.い",
+      "たか",
+      "-だか",
+      "たか.まる",
+      "たか.める"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "高"
+  },
+  {
+    "id": "円",
+    "character": "円",
+    "meanings": [
+      "circle",
+      "yen",
+      "round"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "まる.い",
+      "まる",
+      "まど",
+      "まど.か",
+      "まろ.やか"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "冂"
+  },
+  {
+    "id": "子",
+    "character": "子",
+    "meanings": [
+      "child",
+      "sign of the rat",
+      "11PM-1AM",
+      "first sign of Chinese zodiac"
+    ],
+    "onyomi": [
+      "シ",
+      "ス",
+      "ツ"
+    ],
+    "kunyomi": [
+      "こ",
+      "-こ",
+      "ね"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "子"
+  },
+  {
+    "id": "外",
+    "character": "外",
+    "meanings": [
+      "outside"
+    ],
+    "onyomi": [
+      "ガイ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "そと",
+      "ほか",
+      "はず.す",
+      "はず.れる",
+      "と-"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "夕"
+  },
+  {
+    "id": "八",
+    "character": "八",
+    "meanings": [
+      "eight",
+      "eight radical (no. 12)"
+    ],
+    "onyomi": [
+      "ハチ",
+      "ハツ"
+    ],
+    "kunyomi": [
+      "や",
+      "や.つ",
+      "やっ.つ",
+      "よう"
+    ],
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "八"
+  },
+  {
+    "id": "六",
+    "character": "六",
+    "meanings": [
+      "six"
+    ],
+    "onyomi": [
+      "ロク",
+      "リク"
+    ],
+    "kunyomi": [
+      "む",
+      "む.つ",
+      "むっ.つ",
+      "むい"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "八"
+  },
+  {
+    "id": "下",
+    "character": "下",
+    "meanings": [
+      "below",
+      "down",
+      "descend",
+      "give",
+      "low",
+      "inferior"
+    ],
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "した",
+      "しも",
+      "もと",
+      "さ.げる",
+      "さ.がる",
+      "くだ.る",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "一"
+  },
+  {
+    "id": "来",
+    "character": "来",
+    "meanings": [
+      "come",
+      "due",
+      "next",
+      "cause",
+      "become"
+    ],
+    "onyomi": [
+      "ライ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "く.る",
+      "きた.る",
+      "きた.す",
+      "き.たす",
+      "き.たる",
+      "き",
+      "こ"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "木"
+  },
+  {
+    "id": "気",
+    "character": "気",
+    "meanings": [
+      "spirit",
+      "mind",
+      "air",
+      "atmosphere",
+      "mood"
+    ],
+    "onyomi": [
+      "キ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いき",
+      "き"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "气"
+  },
+  {
+    "id": "小",
+    "character": "小",
+    "meanings": [
+      "little",
+      "small"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "ちい.さい",
+      "こ-",
+      "お-",
+      "さ-"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "小"
+  },
+  {
+    "id": "七",
+    "character": "七",
+    "meanings": [
+      "seven"
+    ],
+    "onyomi": [
+      "シチ"
+    ],
+    "kunyomi": [
+      "なな",
+      "なな.つ",
+      "なの"
+    ],
+    "strokeCount": 2,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "一"
+  },
+  {
+    "id": "山",
+    "character": "山",
+    "meanings": [
+      "mountain"
+    ],
+    "onyomi": [
+      "サン",
+      "セン"
+    ],
+    "kunyomi": [
+      "やま"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "山"
+  },
+  {
+    "id": "話",
+    "character": "話",
+    "meanings": [
+      "tale",
+      "talk"
+    ],
+    "onyomi": [
+      "ワ"
+    ],
+    "kunyomi": [
+      "はな.す",
+      "はなし"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "言"
+  },
+  {
+    "id": "女",
+    "character": "女",
+    "meanings": [
+      "woman",
+      "female"
+    ],
+    "onyomi": [
+      "ジョ",
+      "ニョ",
+      "ニョウ"
+    ],
+    "kunyomi": [
+      "おんな",
+      "め"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "女"
+  },
+  {
+    "id": "北",
+    "character": "北",
+    "meanings": [
+      "north"
+    ],
+    "onyomi": [
+      "ホク"
+    ],
+    "kunyomi": [
+      "きた"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "匕"
+  },
+  {
+    "id": "午",
+    "character": "午",
+    "meanings": [
+      "noon",
+      "sign of the horse",
+      "11AM-1PM",
+      "seventh sign of Chinese zodiac"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "うま"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "十"
+  },
+  {
+    "id": "百",
+    "character": "百",
+    "meanings": [
+      "hundred"
+    ],
+    "onyomi": [
+      "ヒャク",
+      "ビャク"
+    ],
+    "kunyomi": [
+      "もも"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "白"
+  },
+  {
+    "id": "書",
+    "character": "書",
+    "meanings": [
+      "write"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "か.く",
+      "-が.き",
+      "-がき"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "曰"
+  },
+  {
+    "id": "先",
+    "character": "先",
+    "meanings": [
+      "before",
+      "ahead",
+      "previous",
+      "future",
+      "precedence"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "さき",
+      "ま.ず"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "儿"
+  },
+  {
+    "id": "名",
+    "character": "名",
+    "meanings": [
+      "name",
+      "noted",
+      "distinguished",
+      "reputation"
+    ],
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "kunyomi": [
+      "な",
+      "-な"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "口"
+  },
+  {
+    "id": "川",
+    "character": "川",
+    "meanings": [
+      "stream",
+      "river",
+      "river or three-stroke river radical (no. 47)"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "かわ"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "巛"
+  },
+  {
+    "id": "千",
+    "character": "千",
+    "meanings": [
+      "thousand"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "ち"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "十"
+  },
+  {
+    "id": "水",
+    "character": "水",
+    "meanings": [
+      "water"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "みず",
+      "みず-"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "水"
+  },
+  {
+    "id": "半",
+    "character": "半",
+    "meanings": [
+      "half",
+      "middle",
+      "odd number",
+      "semi-",
+      "part-"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "なか.ば"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "十"
+  },
+  {
+    "id": "男",
+    "character": "男",
+    "meanings": [
+      "male"
+    ],
+    "onyomi": [
+      "ダン",
+      "ナン"
+    ],
+    "kunyomi": [
+      "おとこ",
+      "お"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "田"
+  },
+  {
+    "id": "西",
+    "character": "西",
+    "meanings": [
+      "west",
+      "Spain"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ",
+      "ス"
+    ],
+    "kunyomi": [
+      "にし"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "襾"
+  },
+  {
+    "id": "電",
+    "character": "電",
+    "meanings": [
+      "electricity"
+    ],
+    "onyomi": [
+      "デン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 13,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "雨"
+  },
+  {
+    "id": "無",
+    "character": "無",
+    "meanings": [
+      "nothingness",
+      "none",
+      "ain't",
+      "nothing",
+      "nil",
+      "not"
+    ],
+    "onyomi": [
+      "ム",
+      "ブ"
+    ],
+    "kunyomi": [
+      "な.い"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "火"
+  },
+  {
+    "id": "校",
+    "character": "校",
+    "meanings": [
+      "exam",
+      "school",
+      "printing",
+      "proof",
+      "correction"
+    ],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 10,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "木"
+  },
+  {
+    "id": "語",
+    "character": "語",
+    "meanings": [
+      "word",
+      "speech",
+      "language"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "kunyomi": [
+      "かた.る",
+      "かた.らう"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "言"
+  },
+  {
+    "id": "土",
+    "character": "土",
+    "meanings": [
+      "soil",
+      "earth",
+      "ground",
+      "Turkey"
+    ],
+    "onyomi": [
+      "ド",
+      "ト"
+    ],
+    "kunyomi": [
+      "つち"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "土"
+  },
+  {
+    "id": "木",
+    "character": "木",
+    "meanings": [
+      "tree",
+      "wood"
+    ],
+    "onyomi": [
+      "ボク",
+      "モク"
+    ],
+    "kunyomi": [
+      "き",
+      "こ-"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "木"
+  },
+  {
+    "id": "聞",
+    "character": "聞",
+    "meanings": [
+      "hear",
+      "ask",
+      "listen"
+    ],
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [
+      "き.く",
+      "き.こえる"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "耳"
+  },
+  {
+    "id": "食",
+    "character": "食",
+    "meanings": [
+      "eat",
+      "food"
+    ],
+    "onyomi": [
+      "ショク",
+      "ジキ"
+    ],
+    "kunyomi": [
+      "く.う",
+      "く.らう",
+      "た.べる",
+      "は.む"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "食"
+  },
+  {
+    "id": "車",
+    "character": "車",
+    "meanings": [
+      "car"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "くるま"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "車"
+  },
+  {
+    "id": "何",
+    "character": "何",
+    "meanings": [
+      "what"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "なに",
+      "なん",
+      "なに-",
+      "なん-"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "人"
+  },
+  {
+    "id": "南",
+    "character": "南",
+    "meanings": [
+      "south"
+    ],
+    "onyomi": [
+      "ナン",
+      "ナ"
+    ],
+    "kunyomi": [
+      "みなみ"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "十"
+  },
+  {
+    "id": "万",
+    "character": "万",
+    "meanings": [
+      "ten thousand",
+      "10,000"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "kunyomi": [
+      "よろず"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "一"
+  },
+  {
+    "id": "毎",
+    "character": "毎",
+    "meanings": [
+      "every"
+    ],
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "ごと",
+      "-ごと.に"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "毋"
+  },
+  {
+    "id": "白",
+    "character": "白",
+    "meanings": [
+      "white"
+    ],
+    "onyomi": [
+      "ハク",
+      "ビャク"
+    ],
+    "kunyomi": [
+      "しろ",
+      "しら-",
+      "しろ.い"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "白"
+  },
+  {
+    "id": "天",
+    "character": "天",
+    "meanings": [
+      "heavens",
+      "sky",
+      "imperial"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "あまつ",
+      "あめ",
+      "あま-"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "大"
+  },
+  {
+    "id": "母",
+    "character": "母",
+    "meanings": [
+      "mother"
+    ],
+    "onyomi": [
+      "ボ"
+    ],
+    "kunyomi": [
+      "はは",
+      "も"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "毋"
+  },
+  {
+    "id": "火",
+    "character": "火",
+    "meanings": [
+      "fire"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "ひ",
+      "-び",
+      "ほ-"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "火"
+  },
+  {
+    "id": "右",
+    "character": "右",
+    "meanings": [
+      "right"
+    ],
+    "onyomi": [
+      "ウ",
+      "ユウ"
+    ],
+    "kunyomi": [
+      "みぎ"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "口"
+  },
+  {
+    "id": "読",
+    "character": "読",
+    "meanings": [
+      "read"
+    ],
+    "onyomi": [
+      "ドク",
+      "トク",
+      "トウ"
+    ],
+    "kunyomi": [
+      "よ.む",
+      "-よ.み"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "言"
+  },
+  {
+    "id": "友",
+    "character": "友",
+    "meanings": [
+      "friend"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [
+      "とも"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "又"
+  },
+  {
+    "id": "左",
+    "character": "左",
+    "meanings": [
+      "left"
+    ],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "kunyomi": [
+      "ひだり"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "工"
+  },
+  {
+    "id": "休",
+    "character": "休",
+    "meanings": [
+      "rest",
+      "day off",
+      "retire",
+      "sleep"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "やす.む",
+      "やす.まる",
+      "やす.める"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "人"
+  },
+  {
+    "id": "父",
+    "character": "父",
+    "meanings": [
+      "father"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [
+      "ちち"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "父"
+  },
+  {
+    "id": "雨",
+    "character": "雨",
+    "meanings": [
+      "rain"
+    ],
+    "onyomi": [
+      "ウ"
+    ],
+    "kunyomi": [
+      "あめ",
+      "あま-",
+      "-さめ"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "雨"
+  },
+  {
+    "id": "丈",
+    "character": "丈",
+    "meanings": [
+      "length",
+      "ten shaku",
+      "measure",
+      "Mr.",
+      "Ms.",
+      "height",
+      "stature",
+      "all (one has)",
+      "only",
+      "that's all",
+      "merely"
+    ],
+    "onyomi": [
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "たけ",
+      "だけ"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "一"
+  },
+  {
+    "id": "誰",
+    "character": "誰",
+    "meanings": [
+      "who",
+      "someone",
+      "somebody"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "だれ",
+      "たれ",
+      "た"
+    ],
+    "strokeCount": 15,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "言"
+  },
+  {
+    "id": "貼",
+    "character": "貼",
+    "meanings": [
+      "stick",
+      "paste",
+      "apply"
+    ],
+    "onyomi": [
+      "テン",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "は.る",
+      "つ.く"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N5",
+    "jftLevel": "A1",
+    "radical": "貝"
+  },
+  {
+    "id": "会",
+    "character": "会",
+    "meanings": [
+      "meeting",
+      "meet",
+      "party",
+      "association",
+      "interview",
+      "join"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "人"
+  },
+  {
+    "id": "同",
+    "character": "同",
+    "meanings": [
+      "same",
+      "agree",
+      "equal"
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "おな.じ"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "口"
+  },
+  {
+    "id": "事",
+    "character": "事",
+    "meanings": [
+      "matter",
+      "thing",
+      "fact",
+      "business",
+      "reason",
+      "possibly"
+    ],
+    "onyomi": [
+      "ジ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "こと",
+      "つか.う",
+      "つか.える"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "亅"
+  },
+  {
+    "id": "自",
+    "character": "自",
+    "meanings": [
+      "oneself"
+    ],
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "みずか.ら",
+      "おの.ずから",
+      "おの.ずと"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "自"
+  },
+  {
+    "id": "社",
+    "character": "社",
+    "meanings": [
+      "company",
+      "firm",
+      "office",
+      "association",
+      "shrine"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "やしろ"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "示"
+  },
+  {
+    "id": "者",
+    "character": "者",
+    "meanings": [
+      "someone",
+      "person"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "kunyomi": [
+      "もの"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "老"
+  },
+  {
+    "id": "地",
+    "character": "地",
+    "meanings": [
+      "ground",
+      "earth"
+    ],
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "土"
+  },
+  {
+    "id": "業",
+    "character": "業",
+    "meanings": [
+      "business",
+      "vocation",
+      "arts",
+      "performance"
+    ],
+    "onyomi": [
+      "ギョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "わざ"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "木"
+  },
+  {
+    "id": "方",
+    "character": "方",
+    "meanings": [
+      "direction",
+      "person",
+      "alternative"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "かた",
+      "-かた",
+      "-がた"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "方"
+  },
+  {
+    "id": "新",
+    "character": "新",
+    "meanings": [
+      "new"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "あたら.しい",
+      "あら.た",
+      "あら-",
+      "にい-"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "斤"
+  },
+  {
+    "id": "立",
+    "character": "立",
+    "meanings": [
+      "stand up",
+      "rise",
+      "set up",
+      "erect"
+    ],
+    "onyomi": [
+      "リツ",
+      "リュウ",
+      "リットル"
+    ],
+    "kunyomi": [
+      "た.つ",
+      "-た.つ",
+      "た.ち-",
+      "た.てる",
+      "-た.てる",
+      "た.て-",
+      "たて-",
+      "-た.て",
+      "-だ.て",
+      "-だ.てる"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "立"
+  },
+  {
+    "id": "開",
+    "character": "開",
+    "meanings": [
+      "open",
+      "unfold",
+      "unseal"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "ひら.く",
+      "ひら.き",
+      "-びら.き",
+      "ひら.ける",
+      "あ.く",
+      "あ.ける"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "門"
+  },
+  {
+    "id": "手",
+    "character": "手",
+    "meanings": [
+      "hand"
+    ],
+    "onyomi": [
+      "シュ",
+      "ズ"
+    ],
+    "kunyomi": [
+      "て",
+      "て-",
+      "-て",
+      "た-"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "手"
+  },
+  {
+    "id": "問",
+    "character": "問",
+    "meanings": [
+      "question",
+      "ask",
+      "problem"
+    ],
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "と.う",
+      "と.い",
+      "とん"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "口"
+  },
+  {
+    "id": "明",
+    "character": "明",
+    "meanings": [
+      "bright",
+      "light"
+    ],
+    "onyomi": [
+      "メイ",
+      "ミョウ",
+      "ミン"
+    ],
+    "kunyomi": [
+      "あ.かり",
+      "あか.るい",
+      "あか.るむ",
+      "あか.らむ",
+      "あき.らか",
+      "あ.ける",
+      "-あ.け",
+      "あ.く",
+      "あ.くる",
+      "あ.かす"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "日"
+  },
+  {
+    "id": "動",
+    "character": "動",
+    "meanings": [
+      "move",
+      "motion",
+      "change",
+      "confusion",
+      "shift",
+      "shake"
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "うご.く",
+      "うご.かす"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "力"
+  },
+  {
+    "id": "目",
+    "character": "目",
+    "meanings": [
+      "eye",
+      "class",
+      "look",
+      "insight",
+      "experience",
+      "care",
+      "favor"
+    ],
+    "onyomi": [
+      "モク",
+      "ボク"
+    ],
+    "kunyomi": [
+      "め",
+      "-め",
+      "ま-"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "目"
+  },
+  {
+    "id": "言",
+    "character": "言",
+    "meanings": [
+      "say",
+      "word"
+    ],
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "い.う",
+      "こと"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "言"
+  },
+  {
+    "id": "理",
+    "character": "理",
+    "meanings": [
+      "logic",
+      "arrangement",
+      "reason",
+      "justice",
+      "truth"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "ことわり"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "玉"
+  },
+  {
+    "id": "体",
+    "character": "体",
+    "meanings": [
+      "body",
+      "substance",
+      "object",
+      "reality",
+      "counter for images"
+    ],
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "kunyomi": [
+      "からだ",
+      "かたち"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "人"
+  },
+  {
+    "id": "題",
+    "character": "題",
+    "meanings": [
+      "topic",
+      "subject"
+    ],
+    "onyomi": [
+      "ダイ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 18,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "頁"
+  },
+  {
+    "id": "意",
+    "character": "意",
+    "meanings": [
+      "idea",
+      "mind",
+      "heart",
+      "taste",
+      "thought",
+      "desire",
+      "care",
+      "liking"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 13,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "心"
+  },
+  {
+    "id": "作",
+    "character": "作",
+    "meanings": [
+      "make",
+      "production",
+      "prepare",
+      "build"
+    ],
+    "onyomi": [
+      "サク",
+      "サ"
+    ],
+    "kunyomi": [
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "人"
+  },
+  {
+    "id": "度",
+    "character": "度",
+    "meanings": [
+      "degrees",
+      "occurrence",
+      "time",
+      "counter for occurrences",
+      "consider",
+      "attitude"
+    ],
+    "onyomi": [
+      "ド",
+      "ト",
+      "タク"
+    ],
+    "kunyomi": [
+      "たび",
+      "-た.い"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "广"
+  },
+  {
+    "id": "強",
+    "character": "強",
+    "meanings": [
+      "strong"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "つよ.い",
+      "つよ.まる",
+      "つよ.める",
+      "し.いる",
+      "こわ.い"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "弓"
+  },
+  {
+    "id": "公",
+    "character": "公",
+    "meanings": [
+      "public",
+      "prince",
+      "official",
+      "governmental"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "おおやけ"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "八"
+  },
+  {
+    "id": "持",
+    "character": "持",
+    "meanings": [
+      "hold",
+      "have"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "も.つ",
+      "-も.ち",
+      "も.てる"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "手"
+  },
+  {
+    "id": "野",
+    "character": "野",
+    "meanings": [
+      "plains",
+      "field",
+      "rustic",
+      "civilian life"
+    ],
+    "onyomi": [
+      "ヤ",
+      "ショ"
+    ],
+    "kunyomi": [
+      "の",
+      "の-"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "里"
+  },
+  {
+    "id": "家",
+    "character": "家",
+    "meanings": [
+      "house",
+      "home",
+      "family",
+      "professional",
+      "expert",
+      "performer"
+    ],
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "宀"
+  },
+  {
+    "id": "多",
+    "character": "多",
+    "meanings": [
+      "many",
+      "frequent",
+      "much"
+    ],
+    "onyomi": [
+      "タ"
+    ],
+    "kunyomi": [
+      "おお.い",
+      "まさ.に",
+      "まさ.る"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "夕"
+  },
+  {
+    "id": "安",
+    "character": "安",
+    "meanings": [
+      "relax",
+      "cheap",
+      "low",
+      "quiet",
+      "rested",
+      "contented",
+      "peaceful"
+    ],
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "やす.い",
+      "やす.まる",
+      "やす",
+      "やす.らか"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "宀"
+  },
+  {
+    "id": "院",
+    "character": "院",
+    "meanings": [
+      "Inst.",
+      "institution",
+      "temple",
+      "mansion",
+      "school"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "阜"
+  },
+  {
+    "id": "教",
+    "character": "教",
+    "meanings": [
+      "teach",
+      "faith",
+      "doctrine"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "おし.える",
+      "おそ.わる"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "攴"
+  },
+  {
+    "id": "文",
+    "character": "文",
+    "meanings": [
+      "sentence",
+      "literature",
+      "style",
+      "art",
+      "decoration",
+      "figures",
+      "plan",
+      "literary radical (no. 67)"
+    ],
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "kunyomi": [
+      "ふみ",
+      "あや"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "文"
+  },
+  {
+    "id": "元",
+    "character": "元",
+    "meanings": [
+      "beginning",
+      "former time",
+      "origin"
+    ],
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "kunyomi": [
+      "もと"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "儿"
+  },
+  {
+    "id": "重",
+    "character": "重",
+    "meanings": [
+      "heavy",
+      "important",
+      "esteem",
+      "respect",
+      "heap up",
+      "pile up",
+      "nest of boxes",
+      "-fold"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "え",
+      "おも.い",
+      "おも.り",
+      "おも.なう",
+      "かさ.ねる",
+      "かさ.なる",
+      "おも"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "里"
+  },
+  {
+    "id": "近",
+    "character": "近",
+    "meanings": [
+      "near",
+      "early",
+      "akin",
+      "tantamount"
+    ],
+    "onyomi": [
+      "キン",
+      "コン"
+    ],
+    "kunyomi": [
+      "ちか.い"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "辵"
+  },
+  {
+    "id": "画",
+    "character": "画",
+    "meanings": [
+      "brush-stroke",
+      "picture"
+    ],
+    "onyomi": [
+      "ガ",
+      "カク",
+      "エ",
+      "カイ"
+    ],
+    "kunyomi": [
+      "えが.く",
+      "かく.する",
+      "かぎ.る",
+      "はかりごと",
+      "はか.る"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "田"
+  },
+  {
+    "id": "海",
+    "character": "海",
+    "meanings": [
+      "sea",
+      "ocean"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "うみ"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "水"
+  },
+  {
+    "id": "売",
+    "character": "売",
+    "meanings": [
+      "sell"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "う.る",
+      "う.れる"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "士"
+  },
+  {
+    "id": "知",
+    "character": "知",
+    "meanings": [
+      "know",
+      "wisdom"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "し.る",
+      "し.らせる"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "矢"
+  },
+  {
+    "id": "道",
+    "character": "道",
+    "meanings": [
+      "road-way",
+      "street",
+      "district",
+      "journey",
+      "course",
+      "moral",
+      "teachings"
+    ],
+    "onyomi": [
+      "ドウ",
+      "トウ"
+    ],
+    "kunyomi": [
+      "みち",
+      "いう"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "辵"
+  },
+  {
+    "id": "物",
+    "character": "物",
+    "meanings": [
+      "thing",
+      "object",
+      "matter"
+    ],
+    "onyomi": [
+      "ブツ",
+      "モツ"
+    ],
+    "kunyomi": [
+      "もの",
+      "もの-"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "牛"
+  },
+  {
+    "id": "使",
+    "character": "使",
+    "meanings": [
+      "use",
+      "send on a mission",
+      "order",
+      "messenger",
+      "envoy",
+      "ambassador",
+      "cause"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "つか.う",
+      "つか.い",
+      "-つか.い",
+      "-づか.い"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "人"
+  },
+  {
+    "id": "計",
+    "character": "計",
+    "meanings": [
+      "plot",
+      "plan",
+      "scheme",
+      "measure"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "はか.る",
+      "はか.らう"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "言"
+  },
+  {
+    "id": "死",
+    "character": "死",
+    "meanings": [
+      "death",
+      "die"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "し.ぬ",
+      "し.に-"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "歹"
+  },
+  {
+    "id": "私",
+    "character": "私",
+    "meanings": [
+      "private",
+      "I",
+      "me"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "わたくし",
+      "わたし"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "禾"
+  },
+  {
+    "id": "始",
+    "character": "始",
+    "meanings": [
+      "commence",
+      "begin"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "はじ.める",
+      "-はじ.める",
+      "はじ.まる"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "女"
+  },
+  {
+    "id": "朝",
+    "character": "朝",
+    "meanings": [
+      "morning",
+      "dynasty",
+      "regime",
+      "epoch",
+      "period",
+      "(North) Korea"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "あさ"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "月"
+  },
+  {
+    "id": "終",
+    "character": "終",
+    "meanings": [
+      "end",
+      "finish"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "お.わる",
+      "-お.わる",
+      "おわ.る",
+      "お.える",
+      "つい",
+      "つい.に"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "糸"
+  },
+  {
+    "id": "台",
+    "character": "台",
+    "meanings": [
+      "pedestal",
+      "a stand",
+      "counter for machines and vehicles"
+    ],
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "kunyomi": [
+      "うてな",
+      "われ",
+      "つかさ"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "口"
+  },
+  {
+    "id": "広",
+    "character": "広",
+    "meanings": [
+      "wide",
+      "broad",
+      "spacious"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "ひろ.い",
+      "ひろ.まる",
+      "ひろ.める",
+      "ひろ.がる",
+      "ひろ.げる"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "广"
+  },
+  {
+    "id": "住",
+    "character": "住",
+    "meanings": [
+      "dwell",
+      "reside",
+      "live",
+      "inhabit"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "ヂュウ",
+      "チュウ"
+    ],
+    "kunyomi": [
+      "す.む",
+      "す.まう",
+      "-ず.まい"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "人"
+  },
+  {
+    "id": "真",
+    "character": "真",
+    "meanings": [
+      "true",
+      "reality",
+      "Buddhist sect"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ま",
+      "ま-",
+      "まこと"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "目"
+  },
+  {
+    "id": "有",
+    "character": "有",
+    "meanings": [
+      "possess",
+      "have",
+      "exist",
+      "happen",
+      "occur",
+      "approx"
+    ],
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "kunyomi": [
+      "あ.る"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "月"
+  },
+  {
+    "id": "口",
+    "character": "口",
+    "meanings": [
+      "mouth"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "くち"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "口"
+  },
+  {
+    "id": "少",
+    "character": "少",
+    "meanings": [
+      "few",
+      "little"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "すく.ない",
+      "すこ.し"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "小"
+  },
+  {
+    "id": "町",
+    "character": "町",
+    "meanings": [
+      "town",
+      "village",
+      "block",
+      "street"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "まち"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "田"
+  },
+  {
+    "id": "料",
+    "character": "料",
+    "meanings": [
+      "fee",
+      "materials"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "斗"
+  },
+  {
+    "id": "建",
+    "character": "建",
+    "meanings": [
+      "build"
+    ],
+    "onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "kunyomi": [
+      "た.てる",
+      "た.て",
+      "-だ.て",
+      "た.つ"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "廴"
+  },
+  {
+    "id": "空",
+    "character": "空",
+    "meanings": [
+      "empty",
+      "sky",
+      "void",
+      "vacant",
+      "vacuum"
+    ],
+    "onyomi": [
+      "クウ"
+    ],
+    "kunyomi": [
+      "そら",
+      "あ.く",
+      "あ.き",
+      "あ.ける",
+      "から",
+      "す.く",
+      "す.かす",
+      "むな.しい"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "穴"
+  },
+  {
+    "id": "止",
+    "character": "止",
+    "meanings": [
+      "stop",
+      "halt"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "と.まる",
+      "-ど.まり",
+      "と.める",
+      "-と.める",
+      "-ど.め",
+      "とど.める",
+      "とど.め",
+      "とど.まる",
+      "や.める",
+      "や.む",
+      "-や.む",
+      "よ.す",
+      "-さ.す",
+      "-さ.し"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "止"
+  },
+  {
+    "id": "切",
+    "character": "切",
+    "meanings": [
+      "cut",
+      "cutoff",
+      "be sharp"
+    ],
+    "onyomi": [
+      "セツ",
+      "サイ"
+    ],
+    "kunyomi": [
+      "き.る",
+      "-き.る",
+      "き.り",
+      "-き.り",
+      "-ぎ.り",
+      "き.れる",
+      "-き.れる",
+      "き.れ",
+      "-き.れ",
+      "-ぎ.れ"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "刀"
+  },
+  {
+    "id": "転",
+    "character": "転",
+    "meanings": [
+      "revolve",
+      "turn around",
+      "change"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "ころ.がる",
+      "ころ.げる",
+      "ころ.がす",
+      "ころ.ぶ",
+      "まろ.ぶ",
+      "うたた",
+      "うつ.る",
+      "くる.めく"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "車"
+  },
+  {
+    "id": "足",
+    "character": "足",
+    "meanings": [
+      "leg",
+      "foot",
+      "be sufficient",
+      "counter for pairs of footwear"
+    ],
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "あし",
+      "た.りる",
+      "た.る",
+      "た.す"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "足"
+  },
+  {
+    "id": "楽",
+    "character": "楽",
+    "meanings": [
+      "music",
+      "comfort",
+      "ease"
+    ],
+    "onyomi": [
+      "ガク",
+      "ラク",
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "たの.しい",
+      "たの.しむ",
+      "この.む"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "木"
+  },
+  {
+    "id": "起",
+    "character": "起",
+    "meanings": [
+      "rouse",
+      "wake up",
+      "get up"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "お.きる",
+      "お.こる",
+      "お.こす",
+      "おこ.す",
+      "た.つ"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "走"
+  },
+  {
+    "id": "着",
+    "character": "着",
+    "meanings": [
+      "don",
+      "arrive",
+      "wear",
+      "counter for suits of clothing"
+    ],
+    "onyomi": [
+      "チャク",
+      "ジャク"
+    ],
+    "kunyomi": [
+      "き.る",
+      "き.せる",
+      "つ.く",
+      "つ.ける"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "目"
+  },
+  {
+    "id": "店",
+    "character": "店",
+    "meanings": [
+      "store",
+      "shop"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "みせ",
+      "たな"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "广"
+  },
+  {
+    "id": "病",
+    "character": "病",
+    "meanings": [
+      "ill",
+      "sick"
+    ],
+    "onyomi": [
+      "ビョウ",
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "や.む",
+      "-や.み",
+      "やまい"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "疒"
+  },
+  {
+    "id": "質",
+    "character": "質",
+    "meanings": [
+      "substance",
+      "quality",
+      "matter",
+      "temperament"
+    ],
+    "onyomi": [
+      "シツ",
+      "シチ",
+      "チ"
+    ],
+    "kunyomi": [
+      "たち",
+      "ただ.す",
+      "もと",
+      "わりふ"
+    ],
+    "strokeCount": 15,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "貝"
+  },
+  {
+    "id": "待",
+    "character": "待",
+    "meanings": [
+      "wait",
+      "depend on"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "ま.つ",
+      "-ま.ち"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "彳"
+  },
+  {
+    "id": "族",
+    "character": "族",
+    "meanings": [
+      "tribe",
+      "family"
+    ],
+    "onyomi": [
+      "ゾク"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "方"
+  },
+  {
+    "id": "銀",
+    "character": "銀",
+    "meanings": [
+      "silver"
+    ],
+    "onyomi": [
+      "ギン"
+    ],
+    "kunyomi": [
+      "しろがね"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "金"
+  },
+  {
+    "id": "早",
+    "character": "早",
+    "meanings": [
+      "early",
+      "fast"
+    ],
+    "onyomi": [
+      "ソウ",
+      "サッ"
+    ],
+    "kunyomi": [
+      "はや.い",
+      "はや",
+      "はや-",
+      "はや.まる",
+      "はや.める",
+      "さ-"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "日"
+  },
+  {
+    "id": "映",
+    "character": "映",
+    "meanings": [
+      "reflect",
+      "reflection",
+      "projection"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "うつ.る",
+      "うつ.す",
+      "は.える",
+      "-ば.え"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "日"
+  },
+  {
+    "id": "親",
+    "character": "親",
+    "meanings": [
+      "parent",
+      "intimacy",
+      "relative",
+      "familiarity",
+      "dealer (cards)"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "おや",
+      "おや-",
+      "した.しい",
+      "した.しむ"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "見"
+  },
+  {
+    "id": "英",
+    "character": "英",
+    "meanings": [
+      "England",
+      "English",
+      "hero",
+      "outstanding",
+      "calyx"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "はなぶさ"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "艸"
+  },
+  {
+    "id": "医",
+    "character": "医",
+    "meanings": [
+      "doctor",
+      "medicine"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "い.やす",
+      "い.する",
+      "くすし"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "匸"
+  },
+  {
+    "id": "仕",
+    "character": "仕",
+    "meanings": [
+      "attend",
+      "doing",
+      "official",
+      "serve"
+    ],
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "つか.える"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "人"
+  },
+  {
+    "id": "去",
+    "character": "去",
+    "meanings": [
+      "gone",
+      "past",
+      "quit",
+      "leave",
+      "elapse",
+      "eliminate",
+      "divorce"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "kunyomi": [
+      "さ.る",
+      "-さ.る"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "厶"
+  },
+  {
+    "id": "味",
+    "character": "味",
+    "meanings": [
+      "flavor",
+      "taste"
+    ],
+    "onyomi": [
+      "ミ"
+    ],
+    "kunyomi": [
+      "あじ",
+      "あじ.わう"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "口"
+  },
+  {
+    "id": "写",
+    "character": "写",
+    "meanings": [
+      "copy",
+      "be photographed",
+      "describe"
+    ],
+    "onyomi": [
+      "シャ",
+      "ジャ"
+    ],
+    "kunyomi": [
+      "うつ.す",
+      "うつ.る",
+      "うつ-",
+      "うつ.し"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "冖"
+  },
+  {
+    "id": "字",
+    "character": "字",
+    "meanings": [
+      "character",
+      "letter",
+      "word",
+      "section of village"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "あざ",
+      "あざな",
+      "-な"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "子"
+  },
+  {
+    "id": "答",
+    "character": "答",
+    "meanings": [
+      "solution",
+      "answer"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "こた.える",
+      "こた.え"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "竹"
+  },
+  {
+    "id": "夜",
+    "character": "夜",
+    "meanings": [
+      "night",
+      "evening"
+    ],
+    "onyomi": [
+      "ヤ"
+    ],
+    "kunyomi": [
+      "よ",
+      "よる"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "夕"
+  },
+  {
+    "id": "音",
+    "character": "音",
+    "meanings": [
+      "sound",
+      "noise"
+    ],
+    "onyomi": [
+      "オン",
+      "イン",
+      "-ノン"
+    ],
+    "kunyomi": [
+      "おと",
+      "ね"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "音"
+  },
+  {
+    "id": "帰",
+    "character": "帰",
+    "meanings": [
+      "homecoming",
+      "arrive at",
+      "lead to",
+      "result in"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "かえ.る",
+      "かえ.す",
+      "おく.る",
+      "とつ.ぐ"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "巾"
+  },
+  {
+    "id": "古",
+    "character": "古",
+    "meanings": [
+      "old"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "ふる.い",
+      "ふる-",
+      "-ふる.す"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "口"
+  },
+  {
+    "id": "歌",
+    "character": "歌",
+    "meanings": [
+      "song",
+      "sing"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "うた",
+      "うた.う"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "欠"
+  },
+  {
+    "id": "買",
+    "character": "買",
+    "meanings": [
+      "buy"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "kunyomi": [
+      "か.う"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "貝"
+  },
+  {
+    "id": "悪",
+    "character": "悪",
+    "meanings": [
+      "bad",
+      "vice",
+      "rascal",
+      "false",
+      "evil",
+      "wrong"
+    ],
+    "onyomi": [
+      "アク",
+      "オ"
+    ],
+    "kunyomi": [
+      "わる.い",
+      "わる-",
+      "あ.し",
+      "にく.い",
+      "-にく.い",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.む"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "心"
+  },
+  {
+    "id": "図",
+    "character": "図",
+    "meanings": [
+      "map",
+      "drawing",
+      "plan",
+      "extraordinary",
+      "audacious"
+    ],
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "え",
+      "はか.る"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "囗"
+  },
+  {
+    "id": "週",
+    "character": "週",
+    "meanings": [
+      "week"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "辵"
+  },
+  {
+    "id": "室",
+    "character": "室",
+    "meanings": [
+      "room",
+      "apartment",
+      "chamber",
+      "greenhouse",
+      "cellar"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "kunyomi": [
+      "むろ"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "宀"
+  },
+  {
+    "id": "歩",
+    "character": "歩",
+    "meanings": [
+      "walk",
+      "counter for steps"
+    ],
+    "onyomi": [
+      "ホ",
+      "ブ",
+      "フ"
+    ],
+    "kunyomi": [
+      "ある.く",
+      "あゆ.む"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "止"
+  },
+  {
+    "id": "風",
+    "character": "風",
+    "meanings": [
+      "wind",
+      "air",
+      "style",
+      "manner"
+    ],
+    "onyomi": [
+      "フウ",
+      "フ"
+    ],
+    "kunyomi": [
+      "かぜ",
+      "かざ-"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "風"
+  },
+  {
+    "id": "紙",
+    "character": "紙",
+    "meanings": [
+      "paper"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "かみ"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "糸"
+  },
+  {
+    "id": "黒",
+    "character": "黒",
+    "meanings": [
+      "black"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "kunyomi": [
+      "くろ",
+      "くろ.ずむ",
+      "くろ.い"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "黑"
+  },
+  {
+    "id": "花",
+    "character": "花",
+    "meanings": [
+      "flower"
+    ],
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "艸"
+  },
+  {
+    "id": "春",
+    "character": "春",
+    "meanings": [
+      "springtime",
+      "spring (season)"
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "kunyomi": [
+      "はる"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "日"
+  },
+  {
+    "id": "赤",
+    "character": "赤",
+    "meanings": [
+      "red"
+    ],
+    "onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "kunyomi": [
+      "あか",
+      "あか-",
+      "あか.い",
+      "あか.らむ",
+      "あか.らめる"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "赤"
+  },
+  {
+    "id": "青",
+    "character": "青",
+    "meanings": [
+      "blue",
+      "green"
+    ],
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "あお",
+      "あお-",
+      "あお.い"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "靑"
+  },
+  {
+    "id": "館",
+    "character": "館",
+    "meanings": [
+      "building",
+      "mansion",
+      "large building",
+      "palace"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "やかた",
+      "たて"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "食"
+  },
+  {
+    "id": "屋",
+    "character": "屋",
+    "meanings": [
+      "roof",
+      "house",
+      "shop",
+      "dealer",
+      "seller"
+    ],
+    "onyomi": [
+      "オク"
+    ],
+    "kunyomi": [
+      "や"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "尸"
+  },
+  {
+    "id": "色",
+    "character": "色",
+    "meanings": [
+      "color"
+    ],
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "kunyomi": [
+      "いろ"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "色"
+  },
+  {
+    "id": "走",
+    "character": "走",
+    "meanings": [
+      "run"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はし.る"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "走"
+  },
+  {
+    "id": "秋",
+    "character": "秋",
+    "meanings": [
+      "autumn"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "kunyomi": [
+      "あき",
+      "とき"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "禾"
+  },
+  {
+    "id": "夏",
+    "character": "夏",
+    "meanings": [
+      "summer"
+    ],
+    "onyomi": [
+      "カ",
+      "ガ",
+      "ゲ"
+    ],
+    "kunyomi": [
+      "なつ"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "夊"
+  },
+  {
+    "id": "習",
+    "character": "習",
+    "meanings": [
+      "learn"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ジュ"
+    ],
+    "kunyomi": [
+      "なら.う",
+      "なら.い"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "羽"
+  },
+  {
+    "id": "駅",
+    "character": "駅",
+    "meanings": [
+      "station"
+    ],
+    "onyomi": [
+      "エキ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 14,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "馬"
+  },
+  {
+    "id": "洋",
+    "character": "洋",
+    "meanings": [
+      "ocean",
+      "sea",
+      "foreign",
+      "Western style"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "水"
+  },
+  {
+    "id": "旅",
+    "character": "旅",
+    "meanings": [
+      "trip",
+      "travel"
+    ],
+    "onyomi": [
+      "リョ"
+    ],
+    "kunyomi": [
+      "たび"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "方"
+  },
+  {
+    "id": "服",
+    "character": "服",
+    "meanings": [
+      "clothing",
+      "admit",
+      "obey",
+      "discharge"
+    ],
+    "onyomi": [
+      "フク"
+    ],
+    "kunyomi": [],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "月"
+  },
+  {
+    "id": "夕",
+    "character": "夕",
+    "meanings": [
+      "evening"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "kunyomi": [
+      "ゆう"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "夕"
+  },
+  {
+    "id": "借",
+    "character": "借",
+    "meanings": [
+      "borrow",
+      "rent"
+    ],
+    "onyomi": [
+      "シャク"
+    ],
+    "kunyomi": [
+      "か.りる"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "人"
+  },
+  {
+    "id": "曜",
+    "character": "曜",
+    "meanings": [
+      "weekday"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 18,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "日"
+  },
+  {
+    "id": "飲",
+    "character": "飲",
+    "meanings": [
+      "drink",
+      "smoke",
+      "take"
+    ],
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "kunyomi": [
+      "の.む",
+      "-の.み"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "食"
+  },
+  {
+    "id": "肉",
+    "character": "肉",
+    "meanings": [
+      "meat"
+    ],
+    "onyomi": [
+      "ニク"
+    ],
+    "kunyomi": [
+      "しし"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "肉"
+  },
+  {
+    "id": "貸",
+    "character": "貸",
+    "meanings": [
+      "lend"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "kunyomi": [
+      "か.す",
+      "か.し-",
+      "かし-"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "貝"
+  },
+  {
+    "id": "堂",
+    "character": "堂",
+    "meanings": [
+      "public chamber",
+      "hall"
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "土"
+  },
+  {
+    "id": "鳥",
+    "character": "鳥",
+    "meanings": [
+      "bird",
+      "chicken"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "kunyomi": [
+      "とり"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "鳥"
+  },
+  {
+    "id": "飯",
+    "character": "飯",
+    "meanings": [
+      "meal",
+      "boiled rice"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "kunyomi": [
+      "めし"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "食"
+  },
+  {
+    "id": "勉",
+    "character": "勉",
+    "meanings": [
+      "exertion",
+      "endeavour",
+      "encourage",
+      "strive",
+      "make effort",
+      "diligent"
+    ],
+    "onyomi": [
+      "ベン"
+    ],
+    "kunyomi": [
+      "つと.める"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "力"
+  },
+  {
+    "id": "冬",
+    "character": "冬",
+    "meanings": [
+      "winter"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "冫"
+  },
+  {
+    "id": "昼",
+    "character": "昼",
+    "meanings": [
+      "daytime",
+      "noon"
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "kunyomi": [
+      "ひる"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "日"
+  },
+  {
+    "id": "茶",
+    "character": "茶",
+    "meanings": [
+      "tea"
+    ],
+    "onyomi": [
+      "チャ",
+      "サ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "艸"
+  },
+  {
+    "id": "弟",
+    "character": "弟",
+    "meanings": [
+      "younger brother",
+      "faithful service to elders"
+    ],
+    "onyomi": [
+      "テイ",
+      "ダイ",
+      "デ"
+    ],
+    "kunyomi": [
+      "おとうと"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "弓"
+  },
+  {
+    "id": "牛",
+    "character": "牛",
+    "meanings": [
+      "cow"
+    ],
+    "onyomi": [
+      "ギュウ"
+    ],
+    "kunyomi": [
+      "うし"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "牛"
+  },
+  {
+    "id": "魚",
+    "character": "魚",
+    "meanings": [
+      "fish"
+    ],
+    "onyomi": [
+      "ギョ"
+    ],
+    "kunyomi": [
+      "うお",
+      "さかな",
+      "-ざかな"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "魚"
+  },
+  {
+    "id": "兄",
+    "character": "兄",
+    "meanings": [
+      "elder brother",
+      "big brother"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "kunyomi": [
+      "あに"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "儿"
+  },
+  {
+    "id": "犬",
+    "character": "犬",
+    "meanings": [
+      "dog"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "kunyomi": [
+      "いぬ",
+      "いぬ-"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "犬"
+  },
+  {
+    "id": "妹",
+    "character": "妹",
+    "meanings": [
+      "younger sister"
+    ],
+    "onyomi": [
+      "マイ"
+    ],
+    "kunyomi": [
+      "いもうと"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "女"
+  },
+  {
+    "id": "姉",
+    "character": "姉",
+    "meanings": [
+      "elder sister"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "あね",
+      "はは"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "女"
+  },
+  {
+    "id": "漢",
+    "character": "漢",
+    "meanings": [
+      "Sino-",
+      "China"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 13,
+    "jlptLevel": "N4",
+    "jftLevel": "A2",
+    "radical": "水"
+  },
+  {
+    "id": "部",
+    "character": "部",
+    "meanings": [
+      "section",
+      "bureau",
+      "dept",
+      "class",
+      "copy",
+      "part",
+      "portion",
+      "counter for copies of a newspaper or magazine"
+    ],
+    "onyomi": [
+      "ブ"
+    ],
+    "kunyomi": [
+      "-べ"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N3",
+    "radical": "邑"
+  },
+  {
+    "id": "関",
+    "character": "関",
+    "meanings": [
+      "connection",
+      "barrier",
+      "gateway",
+      "involve",
+      "concerning"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "せき",
+      "-ぜき",
+      "かか.わる",
+      "からくり",
+      "かんぬき"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N3",
+    "radical": "門"
+  },
+  {
+    "id": "全",
+    "character": "全",
+    "meanings": [
+      "whole",
+      "entire",
+      "all",
+      "complete",
+      "fulfill"
+    ],
+    "onyomi": [
+      "ゼン"
+    ],
+    "kunyomi": [
+      "まった.く",
+      "すべ.て"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "入"
+  },
+  {
+    "id": "当",
+    "character": "当",
+    "meanings": [
+      "hit",
+      "right",
+      "appropriate",
+      "himself"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "あ.たる",
+      "あ.たり",
+      "あ.てる",
+      "あ.て",
+      "まさ.に",
+      "まさ.にべし"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "彐"
+  },
+  {
+    "id": "要",
+    "character": "要",
+    "meanings": [
+      "need",
+      "main point",
+      "essence",
+      "pivot",
+      "key to"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "い.る",
+      "かなめ"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "襾"
+  },
+  {
+    "id": "取",
+    "character": "取",
+    "meanings": [
+      "take",
+      "fetch",
+      "take up"
+    ],
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "と.る",
+      "と.り",
+      "と.り-",
+      "とり",
+      "-ど.り"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "又"
+  },
+  {
+    "id": "機",
+    "character": "機",
+    "meanings": [
+      "loom",
+      "mechanism",
+      "machine",
+      "airplane",
+      "opportunity",
+      "potency",
+      "efficacy",
+      "occasion"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "はた"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N3",
+    "radical": "木"
+  },
+  {
+    "id": "初",
+    "character": "初",
+    "meanings": [
+      "first time",
+      "beginning"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "はじ.め",
+      "はじ.めて",
+      "はつ",
+      "はつ-",
+      "うい-",
+      "-そ.める",
+      "-ぞ.め"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "刀"
+  },
+  {
+    "id": "点",
+    "character": "点",
+    "meanings": [
+      "spot",
+      "point",
+      "mark",
+      "speck",
+      "decimal point"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "kunyomi": [
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "火"
+  },
+  {
+    "id": "交",
+    "character": "交",
+    "meanings": [
+      "mingle",
+      "mixing",
+      "association",
+      "coming & going"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "まじ.わる",
+      "まじ.える",
+      "ま.じる",
+      "まじ.る",
+      "ま.ざる",
+      "ま.ぜる",
+      "-か.う",
+      "か.わす",
+      "かわ.す",
+      "こもごも"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "亠"
+  },
+  {
+    "id": "向",
+    "character": "向",
+    "meanings": [
+      "yonder",
+      "facing",
+      "beyond",
+      "confront",
+      "defy",
+      "tend toward",
+      "approach"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "む.く",
+      "む.い",
+      "-む.き",
+      "む.ける",
+      "-む.け",
+      "む.かう",
+      "む.かい",
+      "む.こう",
+      "む.こう-",
+      "むこ",
+      "むか.い"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "口"
+  },
+  {
+    "id": "利",
+    "character": "利",
+    "meanings": [
+      "profit",
+      "advantage",
+      "benefit"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "kunyomi": [
+      "き.く"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "刀"
+  },
+  {
+    "id": "引",
+    "character": "引",
+    "meanings": [
+      "pull",
+      "tug",
+      "jerk",
+      "admit",
+      "install",
+      "quote",
+      "refer to"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "kunyomi": [
+      "ひ.く",
+      "ひ.ける"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N3",
+    "radical": "弓"
+  },
+  {
+    "id": "所",
+    "character": "所",
+    "meanings": [
+      "place",
+      "extent"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "ところ",
+      "-ところ",
+      "どころ",
+      "とこ"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "戶"
+  },
+  {
+    "id": "次",
+    "character": "次",
+    "meanings": [
+      "next",
+      "order",
+      "sequence"
+    ],
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "kunyomi": [
+      "つ.ぐ",
+      "つぎ"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "欠"
+  },
+  {
+    "id": "昨",
+    "character": "昨",
+    "meanings": [
+      "yesterday",
+      "previous"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "日"
+  },
+  {
+    "id": "官",
+    "character": "官",
+    "meanings": [
+      "bureaucrat",
+      "the government",
+      "organ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "宀"
+  },
+  {
+    "id": "両",
+    "character": "両",
+    "meanings": [
+      "both",
+      "old Japanese coin",
+      "counter for carriages (e.g., in a train)",
+      "two"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "てる",
+      "ふたつ"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "一"
+  },
+  {
+    "id": "果",
+    "character": "果",
+    "meanings": [
+      "fruit",
+      "reward",
+      "carry out",
+      "achieve",
+      "complete",
+      "end",
+      "finish",
+      "succeed"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "は.たす",
+      "はた.す",
+      "-は.たす",
+      "は.てる",
+      "-は.てる",
+      "は.て"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "木"
+  },
+  {
+    "id": "歳",
+    "character": "歳",
+    "meanings": [
+      "year-end",
+      "age",
+      "occasion",
+      "opportunity"
+    ],
+    "onyomi": [
+      "サイ",
+      "セイ"
+    ],
+    "kunyomi": [
+      "とし",
+      "とせ",
+      "よわい"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "止"
+  },
+  {
+    "id": "置",
+    "character": "置",
+    "meanings": [
+      "placement",
+      "put",
+      "set",
+      "deposit",
+      "leave behind",
+      "keep",
+      "employ",
+      "pawn"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "お.く",
+      "-お.き"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "网"
+  },
+  {
+    "id": "局",
+    "character": "局",
+    "meanings": [
+      "bureau",
+      "board",
+      "office",
+      "affair",
+      "conclusion",
+      "court lady",
+      "lady-in-waiting",
+      "her apartment"
+    ],
+    "onyomi": [
+      "キョク"
+    ],
+    "kunyomi": [
+      "つぼね"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "尸"
+  },
+  {
+    "id": "供",
+    "character": "供",
+    "meanings": [
+      "submit",
+      "offer",
+      "present",
+      "serve (meal)",
+      "accompany"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ク",
+      "クウ",
+      "グ"
+    ],
+    "kunyomi": [
+      "そな.える",
+      "とも",
+      "-ども"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "人"
+  },
+  {
+    "id": "構",
+    "character": "構",
+    "meanings": [
+      "posture",
+      "stance",
+      "appearance",
+      "build",
+      "set up"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "かま.える",
+      "かま.う"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N3",
+    "radical": "木"
+  },
+  {
+    "id": "難",
+    "character": "難",
+    "meanings": [
+      "difficult",
+      "impossible",
+      "trouble",
+      "accident",
+      "defect"
+    ],
+    "onyomi": [
+      "ナン"
+    ],
+    "kunyomi": [
+      "かた.い",
+      "-がた.い",
+      "むずか.しい",
+      "むづか.しい",
+      "むつか.しい",
+      "-にく.い"
+    ],
+    "strokeCount": 18,
+    "jlptLevel": "N3",
+    "radical": "隹"
+  },
+  {
+    "id": "夫",
+    "character": "夫",
+    "meanings": [
+      "husband",
+      "man"
+    ],
+    "onyomi": [
+      "フ",
+      "フウ",
+      "ブ"
+    ],
+    "kunyomi": [
+      "おっと",
+      "それ"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N3",
+    "radical": "大"
+  },
+  {
+    "id": "違",
+    "character": "違",
+    "meanings": [
+      "difference",
+      "differ"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "kunyomi": [
+      "ちが.う",
+      "ちが.い",
+      "ちが.える",
+      "-ちが.える",
+      "たが.う",
+      "たが.える"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "辵"
+  },
+  {
+    "id": "消",
+    "character": "消",
+    "meanings": [
+      "extinguish",
+      "blow out",
+      "turn off",
+      "neutralize",
+      "cancel"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "き.える",
+      "け.す"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "水"
+  },
+  {
+    "id": "番",
+    "character": "番",
+    "meanings": [
+      "turn",
+      "number in a series"
+    ],
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [
+      "つが.い"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "田"
+  },
+  {
+    "id": "警",
+    "character": "警",
+    "meanings": [
+      "admonish",
+      "commandment"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "いまし.める"
+    ],
+    "strokeCount": 19,
+    "jlptLevel": "N3",
+    "radical": "言"
+  },
+  {
+    "id": "乗",
+    "character": "乗",
+    "meanings": [
+      "ride",
+      "power",
+      "multiplication",
+      "record",
+      "counter for vehicles",
+      "board",
+      "mount",
+      "join"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "の.る",
+      "-の.り",
+      "の.せる"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "丿"
+  },
+  {
+    "id": "声",
+    "character": "声",
+    "meanings": [
+      "voice"
+    ],
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "kunyomi": [
+      "こえ",
+      "こわ-"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "士"
+  },
+  {
+    "id": "葉",
+    "character": "葉",
+    "meanings": [
+      "leaf",
+      "plane",
+      "lobe",
+      "needle",
+      "blade",
+      "spear",
+      "counter for flat things",
+      "fragment",
+      "piece"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "kunyomi": [
+      "は"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "艸"
+  },
+  {
+    "id": "働",
+    "character": "働",
+    "meanings": [
+      "work",
+      "(kokuji)"
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "kunyomi": [
+      "はたら.く"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "人"
+  },
+  {
+    "id": "好",
+    "character": "好",
+    "meanings": [
+      "fond",
+      "pleasing",
+      "like something"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "この.む",
+      "す.く",
+      "よ.い",
+      "い.い"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "女"
+  },
+  {
+    "id": "頭",
+    "character": "頭",
+    "meanings": [
+      "head",
+      "counter for large animals"
+    ],
+    "onyomi": [
+      "トウ",
+      "ズ",
+      "ト"
+    ],
+    "kunyomi": [
+      "あたま",
+      "かしら",
+      "-がしら",
+      "かぶり"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N3",
+    "radical": "頁"
+  },
+  {
+    "id": "渡",
+    "character": "渡",
+    "meanings": [
+      "transit",
+      "ford",
+      "ferry",
+      "cross",
+      "import",
+      "deliver",
+      "diameter",
+      "migrate"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "わた.る",
+      "-わた.る",
+      "わた.す"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "水"
+  },
+  {
+    "id": "差",
+    "character": "差",
+    "meanings": [
+      "distinction",
+      "difference",
+      "variation",
+      "discrepancy",
+      "margin",
+      "balance"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "kunyomi": [
+      "さ.す",
+      "さ.し"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "工"
+  },
+  {
+    "id": "若",
+    "character": "若",
+    "meanings": [
+      "young",
+      "if",
+      "perhaps",
+      "possibly",
+      "low number",
+      "immature"
+    ],
+    "onyomi": [
+      "ジャク",
+      "ニャク",
+      "ニャ"
+    ],
+    "kunyomi": [
+      "わか.い",
+      "わか-",
+      "も.しくわ",
+      "も.し",
+      "も.しくは",
+      "ごと.し"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "艸"
+  },
+  {
+    "id": "段",
+    "character": "段",
+    "meanings": [
+      "grade",
+      "steps",
+      "stairs"
+    ],
+    "onyomi": [
+      "ダン",
+      "タン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "殳"
+  },
+  {
+    "id": "横",
+    "character": "横",
+    "meanings": [
+      "sideways",
+      "side",
+      "horizontal",
+      "width",
+      "woof",
+      "unreasonable",
+      "perverse"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "よこ"
+    ],
+    "strokeCount": 15,
+    "jlptLevel": "N3",
+    "radical": "木"
+  },
+  {
+    "id": "財",
+    "character": "財",
+    "meanings": [
+      "property",
+      "money",
+      "wealth",
+      "assets"
+    ],
+    "onyomi": [
+      "ザイ",
+      "サイ",
+      "ゾク"
+    ],
+    "kunyomi": [
+      "たから"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "貝"
+  },
+  {
+    "id": "呼",
+    "character": "呼",
+    "meanings": [
+      "call",
+      "call out to",
+      "invite"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "よ.ぶ"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "口"
+  },
+  {
+    "id": "達",
+    "character": "達",
+    "meanings": [
+      "accomplished",
+      "reach",
+      "arrive",
+      "attain"
+    ],
+    "onyomi": [
+      "タツ",
+      "ダ"
+    ],
+    "kunyomi": [
+      "-たち"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "辵"
+  },
+  {
+    "id": "太",
+    "character": "太",
+    "meanings": [
+      "plump",
+      "thick",
+      "big around"
+    ],
+    "onyomi": [
+      "タイ",
+      "タ"
+    ],
+    "kunyomi": [
+      "ふと.い",
+      "ふと.る"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N3",
+    "radical": "大"
+  },
+  {
+    "id": "登",
+    "character": "登",
+    "meanings": [
+      "ascend",
+      "climb up"
+    ],
+    "onyomi": [
+      "トウ",
+      "ト",
+      "ドウ",
+      "ショウ",
+      "チョウ"
+    ],
+    "kunyomi": [
+      "のぼ.る",
+      "あ.がる"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "癶"
+  },
+  {
+    "id": "易",
+    "character": "易",
+    "meanings": [
+      "easy",
+      "ready to",
+      "simple",
+      "fortune-telling",
+      "divination"
+    ],
+    "onyomi": [
+      "エキ",
+      "イ"
+    ],
+    "kunyomi": [
+      "やさ.しい",
+      "やす.い"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "日"
+  },
+  {
+    "id": "速",
+    "character": "速",
+    "meanings": [
+      "quick",
+      "fast"
+    ],
+    "onyomi": [
+      "ソク"
+    ],
+    "kunyomi": [
+      "はや.い",
+      "はや-",
+      "はや.める",
+      "すみ.やか"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "辵"
+  },
+  {
+    "id": "飛",
+    "character": "飛",
+    "meanings": [
+      "fly",
+      "skip (pages)",
+      "scatter"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "と.ぶ",
+      "と.ばす",
+      "-と.ばす"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "飛"
+  },
+  {
+    "id": "号",
+    "character": "号",
+    "meanings": [
+      "nickname",
+      "number",
+      "item",
+      "title",
+      "pseudonym",
+      "name",
+      "call"
+    ],
+    "onyomi": [
+      "ゴウ"
+    ],
+    "kunyomi": [
+      "さけ.ぶ",
+      "よびな"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N3",
+    "radical": "口"
+  },
+  {
+    "id": "座",
+    "character": "座",
+    "meanings": [
+      "squat",
+      "seat",
+      "cushion",
+      "gathering",
+      "sit"
+    ],
+    "onyomi": [
+      "ザ"
+    ],
+    "kunyomi": [
+      "すわ.る"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "广"
+  },
+  {
+    "id": "除",
+    "character": "除",
+    "meanings": [
+      "exclude",
+      "division (x/3)",
+      "remove",
+      "abolish",
+      "cancel",
+      "except"
+    ],
+    "onyomi": [
+      "ジョ",
+      "ジ"
+    ],
+    "kunyomi": [
+      "のぞ.く",
+      "-よ.け"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "阜"
+  },
+  {
+    "id": "降",
+    "character": "降",
+    "meanings": [
+      "descend",
+      "precipitate",
+      "fall",
+      "surrender"
+    ],
+    "onyomi": [
+      "コウ",
+      "ゴ"
+    ],
+    "kunyomi": [
+      "お.りる",
+      "お.ろす",
+      "ふ.る",
+      "ふ.り",
+      "くだ.る",
+      "くだ.す"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "阜"
+  },
+  {
+    "id": "危",
+    "character": "危",
+    "meanings": [
+      "dangerous",
+      "fear",
+      "uneasy"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "あぶ.ない",
+      "あや.うい",
+      "あや.ぶむ"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "卩"
+  },
+  {
+    "id": "園",
+    "character": "園",
+    "meanings": [
+      "park",
+      "garden",
+      "yard",
+      "farm"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "その"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "囗"
+  },
+  {
+    "id": "辞",
+    "character": "辞",
+    "meanings": [
+      "resign",
+      "word",
+      "term",
+      "expression"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "や.める",
+      "いな.む"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "辛"
+  },
+  {
+    "id": "冷",
+    "character": "冷",
+    "meanings": [
+      "cool",
+      "cold (beer, person)",
+      "chill"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "冫"
+  },
+  {
+    "id": "返",
+    "character": "返",
+    "meanings": [
+      "return",
+      "answer",
+      "fade",
+      "repay"
+    ],
+    "onyomi": [
+      "ヘン"
+    ],
+    "kunyomi": [
+      "かえ.す",
+      "-かえ.す",
+      "かえ.る",
+      "-かえ.る"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "辵"
+  },
+  {
+    "id": "背",
+    "character": "背",
+    "meanings": [
+      "stature",
+      "height",
+      "back",
+      "behind",
+      "disobey",
+      "defy",
+      "go back on",
+      "rebel"
+    ],
+    "onyomi": [
+      "ハイ"
+    ],
+    "kunyomi": [
+      "せ",
+      "せい",
+      "そむ.く",
+      "そむ.ける"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "肉"
+  },
+  {
+    "id": "熱",
+    "character": "熱",
+    "meanings": [
+      "heat",
+      "temperature",
+      "fever",
+      "mania",
+      "passion"
+    ],
+    "onyomi": [
+      "ネツ"
+    ],
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "strokeCount": 15,
+    "jlptLevel": "N3",
+    "radical": "火"
+  },
+  {
+    "id": "宿",
+    "character": "宿",
+    "meanings": [
+      "inn",
+      "lodging",
+      "relay station",
+      "dwell",
+      "lodge",
+      "be pregnant",
+      "home",
+      "dwelling"
+    ],
+    "onyomi": [
+      "シュク"
+    ],
+    "kunyomi": [
+      "やど",
+      "やど.る",
+      "やど.す"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N3",
+    "radical": "宀"
+  },
+  {
+    "id": "薬",
+    "character": "薬",
+    "meanings": [
+      "medicine",
+      "chemical",
+      "enamel",
+      "gunpowder",
+      "benefit"
+    ],
+    "onyomi": [
+      "ヤク"
+    ],
+    "kunyomi": [
+      "くすり"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N3",
+    "radical": "艸"
+  },
+  {
+    "id": "頼",
+    "character": "頼",
+    "meanings": [
+      "trust",
+      "request"
+    ],
+    "onyomi": [
+      "ライ"
+    ],
+    "kunyomi": [
+      "たの.む",
+      "たの.もしい",
+      "たよ.る"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N3",
+    "radical": "頁"
+  },
+  {
+    "id": "覚",
+    "character": "覚",
+    "meanings": [
+      "memorize",
+      "learn",
+      "remember",
+      "awake",
+      "sober up"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "kunyomi": [
+      "おぼ.える",
+      "さ.ます",
+      "さ.める",
+      "さと.る"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "見"
+  },
+  {
+    "id": "便",
+    "character": "便",
+    "meanings": [
+      "convenience",
+      "facility",
+      "excrement",
+      "feces",
+      "letter",
+      "chance"
+    ],
+    "onyomi": [
+      "ベン",
+      "ビン"
+    ],
+    "kunyomi": [
+      "たよ.り"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "人"
+  },
+  {
+    "id": "留",
+    "character": "留",
+    "meanings": [
+      "detain",
+      "fasten",
+      "halt",
+      "stop"
+    ],
+    "onyomi": [
+      "リュウ",
+      "ル"
+    ],
+    "kunyomi": [
+      "と.める",
+      "と.まる",
+      "とど.める",
+      "とど.まる",
+      "るうぶる"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "田"
+  },
+  {
+    "id": "散",
+    "character": "散",
+    "meanings": [
+      "scatter",
+      "disperse",
+      "spend",
+      "squander"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "ち.る",
+      "ち.らす",
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らばる",
+      "ばら",
+      "ばら.ける"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "攴"
+  },
+  {
+    "id": "静",
+    "character": "静",
+    "meanings": [
+      "quiet"
+    ],
+    "onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "kunyomi": [
+      "しず-",
+      "しず.か",
+      "しず.まる",
+      "しず.める"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N3",
+    "radical": "靑"
+  },
+  {
+    "id": "婚",
+    "character": "婚",
+    "meanings": [
+      "marriage"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "jlptLevel": "N3",
+    "radical": "女"
+  },
+  {
+    "id": "押",
+    "character": "押",
+    "meanings": [
+      "push",
+      "stop",
+      "check",
+      "subdue",
+      "attach",
+      "seize",
+      "weight",
+      "shove",
+      "press",
+      "seal",
+      "do in spite of"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "お.す",
+      "お.し-",
+      "お.っ-",
+      "お.さえる",
+      "おさ.える"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "手"
+  },
+  {
+    "id": "曲",
+    "character": "曲",
+    "meanings": [
+      "bend",
+      "music",
+      "melody",
+      "composition",
+      "pleasure",
+      "injustice",
+      "fault",
+      "curve",
+      "crooked",
+      "perverse",
+      "lean"
+    ],
+    "onyomi": [
+      "キョク"
+    ],
+    "kunyomi": [
+      "ま.がる",
+      "ま.げる",
+      "くま"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "曰"
+  },
+  {
+    "id": "庭",
+    "character": "庭",
+    "meanings": [
+      "courtyard",
+      "garden",
+      "yard"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "にわ"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "广"
+  },
+  {
+    "id": "徒",
+    "character": "徒",
+    "meanings": [
+      "on foot",
+      "junior",
+      "emptiness",
+      "vanity",
+      "futility",
+      "uselessness",
+      "ephemeral thing",
+      "gang",
+      "set",
+      "party",
+      "people"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "kunyomi": [
+      "いたずら",
+      "あだ"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "彳"
+  },
+  {
+    "id": "勤",
+    "character": "勤",
+    "meanings": [
+      "diligence",
+      "become employed",
+      "serve"
+    ],
+    "onyomi": [
+      "キン",
+      "ゴン"
+    ],
+    "kunyomi": [
+      "つと.める",
+      "-づと.め",
+      "つと.まる",
+      "いそ.しむ"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "力"
+  },
+  {
+    "id": "遅",
+    "character": "遅",
+    "meanings": [
+      "slow",
+      "late",
+      "back",
+      "later"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "おく.れる",
+      "おく.らす",
+      "おそ.い"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "辵"
+  },
+  {
+    "id": "雑",
+    "character": "雑",
+    "meanings": [
+      "miscellaneous"
+    ],
+    "onyomi": [
+      "ザツ",
+      "ゾウ"
+    ],
+    "kunyomi": [
+      "まじ.える",
+      "まじ.る"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N3",
+    "radical": "隹"
+  },
+  {
+    "id": "困",
+    "character": "困",
+    "meanings": [
+      "quandary",
+      "become distressed",
+      "annoyed"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "kunyomi": [
+      "こま.る"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "囗"
+  },
+  {
+    "id": "遠",
+    "character": "遠",
+    "meanings": [
+      "distant",
+      "far"
+    ],
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "kunyomi": [
+      "とお.い"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "辵"
+  },
+  {
+    "id": "願",
+    "character": "願",
+    "meanings": [
+      "petition",
+      "request",
+      "vow",
+      "wish",
+      "hope"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "ねが.う",
+      "-ねがい"
+    ],
+    "strokeCount": 19,
+    "jlptLevel": "N3",
+    "radical": "頁"
+  },
+  {
+    "id": "絵",
+    "character": "絵",
+    "meanings": [
+      "picture",
+      "drawing",
+      "painting",
+      "sketch"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "糸"
+  },
+  {
+    "id": "欲",
+    "character": "欲",
+    "meanings": [
+      "longing",
+      "covetousness",
+      "greed",
+      "passion",
+      "desire",
+      "craving"
+    ],
+    "onyomi": [
+      "ヨク"
+    ],
+    "kunyomi": [
+      "ほっ.する",
+      "ほ.しい"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N3",
+    "radical": "欠"
+  },
+  {
+    "id": "痛",
+    "character": "痛",
+    "meanings": [
+      "pain",
+      "hurt",
+      "damage",
+      "bruise"
+    ],
+    "onyomi": [
+      "ツウ"
+    ],
+    "kunyomi": [
+      "いた.い",
+      "いた.む",
+      "いた.ましい",
+      "いた.める"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "疒"
+  },
+  {
+    "id": "遊",
+    "character": "遊",
+    "meanings": [
+      "play"
+    ],
+    "onyomi": [
+      "ユウ",
+      "ユ"
+    ],
+    "kunyomi": [
+      "あそ.ぶ",
+      "あそ.ばす"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "辵"
+  },
+  {
+    "id": "閉",
+    "character": "閉",
+    "meanings": [
+      "closed",
+      "shut"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "と.じる",
+      "と.ざす",
+      "し.める",
+      "し.まる",
+      "た.てる"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N3",
+    "radical": "門"
+  },
+  {
+    "id": "緒",
+    "character": "緒",
+    "meanings": [
+      "thong",
+      "beginning",
+      "inception",
+      "end",
+      "cord",
+      "strap",
+      "mental or emotional state"
+    ],
+    "onyomi": [
+      "ショ",
+      "チョ"
+    ],
+    "kunyomi": [
+      "お",
+      "いとぐち"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N3",
+    "radical": "糸"
+  },
+  {
+    "id": "酒",
+    "character": "酒",
+    "meanings": [
+      "sake",
+      "alcohol"
+    ],
+    "onyomi": [
+      "シュ"
+    ],
+    "kunyomi": [
+      "さけ",
+      "さか-"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "酉"
+  },
+  {
+    "id": "晴",
+    "character": "晴",
+    "meanings": [
+      "clear up"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "kunyomi": [
+      "は.れる",
+      "は.れ",
+      "は.れ-",
+      "-ば.れ",
+      "は.らす"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "日"
+  },
+  {
+    "id": "寝",
+    "character": "寝",
+    "meanings": [
+      "lie down",
+      "sleep",
+      "rest",
+      "bed",
+      "remain unsold"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "ね.る",
+      "ね.かす",
+      "い.ぬ",
+      "みたまや",
+      "や.める"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "宀"
+  },
+  {
+    "id": "暗",
+    "character": "暗",
+    "meanings": [
+      "darkness",
+      "disappear",
+      "shade",
+      "informal",
+      "grow dark",
+      "be blinded"
+    ],
+    "onyomi": [
+      "アン"
+    ],
+    "kunyomi": [
+      "くら.い",
+      "くら.む",
+      "くれ.る"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "日"
+  },
+  {
+    "id": "吸",
+    "character": "吸",
+    "meanings": [
+      "suck",
+      "imbibe",
+      "inhale",
+      "sip"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "kunyomi": [
+      "す.う"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "口"
+  },
+  {
+    "id": "御",
+    "character": "御",
+    "meanings": [
+      "honorable",
+      "manipulate",
+      "govern"
+    ],
+    "onyomi": [
+      "ギョ",
+      "ゴ"
+    ],
+    "kunyomi": [
+      "おん-",
+      "お-",
+      "み-"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "彳"
+  },
+  {
+    "id": "歯",
+    "character": "歯",
+    "meanings": [
+      "tooth",
+      "cog"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [
+      "よわい",
+      "は",
+      "よわ.い",
+      "よわい.する"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "止"
+  },
+  {
+    "id": "忘",
+    "character": "忘",
+    "meanings": [
+      "forget"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "kunyomi": [
+      "わす.れる"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "心"
+  },
+  {
+    "id": "雪",
+    "character": "雪",
+    "meanings": [
+      "snow"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "kunyomi": [
+      "ゆき"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N3",
+    "radical": "雨"
+  },
+  {
+    "id": "吹",
+    "character": "吹",
+    "meanings": [
+      "blow",
+      "breathe",
+      "puff",
+      "emit",
+      "smoke"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "kunyomi": [
+      "ふ.く"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N3",
+    "radical": "口"
+  },
+  {
+    "id": "洗",
+    "character": "洗",
+    "meanings": [
+      "wash",
+      "inquire into",
+      "probe"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "kunyomi": [
+      "あら.う"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "水"
+  },
+  {
+    "id": "窓",
+    "character": "窓",
+    "meanings": [
+      "window",
+      "pane"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ス"
+    ],
+    "kunyomi": [
+      "まど",
+      "てんまど",
+      "けむだし"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N3",
+    "radical": "穴"
+  },
+  {
+    "id": "泳",
+    "character": "泳",
+    "meanings": [
+      "swim"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "kunyomi": [
+      "およ.ぐ"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N3",
+    "radical": "水"
+  },
+  {
+    "id": "祖",
+    "character": "祖",
+    "meanings": [
+      "ancestor",
+      "pioneer",
+      "founder"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "示"
+  },
+  {
+    "id": "疲",
+    "character": "疲",
+    "meanings": [
+      "exhausted",
+      "tire",
+      "weary"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "kunyomi": [
+      "つか.れる",
+      "-づか.れ",
+      "つか.らす"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N3",
+    "radical": "疒"
+  },
+  {
+    "id": "皆",
+    "character": "皆",
+    "meanings": [
+      "all",
+      "everything"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "みな",
+      "みんな"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N3",
+    "radical": "白"
+  },
+  {
+    "id": "鳴",
+    "character": "鳴",
+    "meanings": [
+      "chirp",
+      "cry",
+      "bark",
+      "sound",
+      "ring",
+      "echo",
+      "honk"
+    ],
+    "onyomi": [
+      "メイ"
+    ],
+    "kunyomi": [
+      "な.く",
+      "な.る",
+      "な.らす"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N3",
+    "radical": "鳥"
+  },
+  {
+    "id": "耳",
+    "character": "耳",
+    "meanings": [
+      "ear"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "kunyomi": [
+      "みみ"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "耳"
+  },
+  {
+    "id": "箱",
+    "character": "箱",
+    "meanings": [
+      "box",
+      "chest",
+      "case",
+      "bin",
+      "railway car"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "kunyomi": [
+      "はこ"
+    ],
+    "strokeCount": 15,
+    "jlptLevel": "N3",
+    "radical": "竹"
+  },
+  {
+    "id": "晩",
+    "character": "晩",
+    "meanings": [
+      "nightfall",
+      "night"
+    ],
+    "onyomi": [
+      "バン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "日"
+  },
+  {
+    "id": "寒",
+    "character": "寒",
+    "meanings": [
+      "cold"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "さむ.い"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N3",
+    "radical": "宀"
+  },
+  {
+    "id": "忙",
+    "character": "忙",
+    "meanings": [
+      "busy",
+      "occupied",
+      "restless"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "kunyomi": [
+      "いそが.しい",
+      "せわ.しい",
+      "おそ.れる",
+      "うれえるさま"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N3",
+    "radical": "心"
+  },
+  {
+    "id": "靴",
+    "character": "靴",
+    "meanings": [
+      "shoes"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "くつ"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N3",
+    "radical": "革"
+  },
+  {
+    "id": "猫",
+    "character": "猫",
+    "meanings": [
+      "cat"
+    ],
+    "onyomi": [
+      "ビョウ"
+    ],
+    "kunyomi": [
+      "ねこ"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N3",
+    "radical": "犬"
+  },
+  {
+    "id": "村",
+    "character": "村",
+    "meanings": [
+      "village",
+      "town"
+    ],
+    "onyomi": [
+      "ソン"
+    ],
+    "kunyomi": [
+      "むら"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N2",
+    "radical": "木"
+  },
+  {
+    "id": "勢",
+    "character": "勢",
+    "meanings": [
+      "forces",
+      "energy",
+      "military strength"
+    ],
+    "onyomi": [
+      "セイ",
+      "ゼイ"
+    ],
+    "kunyomi": [
+      "いきお.い",
+      "はずみ"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N2",
+    "radical": "力"
+  },
+  {
+    "id": "再",
+    "character": "再",
+    "meanings": [
+      "again",
+      "twice",
+      "second time"
+    ],
+    "onyomi": [
+      "サイ",
+      "サ"
+    ],
+    "kunyomi": [
+      "ふたた.び"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N2",
+    "radical": "冂"
+  },
+  {
+    "id": "辺",
+    "character": "辺",
+    "meanings": [
+      "environs",
+      "boundary",
+      "border",
+      "vicinity"
+    ],
+    "onyomi": [
+      "ヘン"
+    ],
+    "kunyomi": [
+      "あた.り",
+      "ほと.り",
+      "-べ"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N2",
+    "radical": "辵"
+  },
+  {
+    "id": "低",
+    "character": "低",
+    "meanings": [
+      "lower",
+      "short",
+      "humble"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "ひく.い",
+      "ひく.める",
+      "ひく.まる"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N2",
+    "radical": "人"
+  },
+  {
+    "id": "門",
+    "character": "門",
+    "meanings": [
+      "gate",
+      "counter for cannons"
+    ],
+    "onyomi": [
+      "モン"
+    ],
+    "kunyomi": [
+      "かど",
+      "と"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N2",
+    "radical": "門"
+  },
+  {
+    "id": "蔵",
+    "character": "蔵",
+    "meanings": [
+      "storehouse",
+      "hide",
+      "own",
+      "have",
+      "possess"
+    ],
+    "onyomi": [
+      "ゾウ",
+      "ソウ"
+    ],
+    "kunyomi": [
+      "くら",
+      "おさ.める",
+      "かく.れる"
+    ],
+    "strokeCount": 15,
+    "jlptLevel": "N2",
+    "radical": "艸"
+  },
+  {
+    "id": "階",
+    "character": "階",
+    "meanings": [
+      "storey",
+      "stair",
+      "counter for storeys of a building"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "きざはし"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "阜"
+  },
+  {
+    "id": "細",
+    "character": "細",
+    "meanings": [
+      "dainty",
+      "get thin",
+      "taper",
+      "slender",
+      "narrow",
+      "detailed",
+      "precise"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "ほそ.い",
+      "ほそ.る",
+      "こま.か",
+      "こま.かい"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "糸"
+  },
+  {
+    "id": "丸",
+    "character": "丸",
+    "meanings": [
+      "round",
+      "full (month)",
+      "perfection",
+      "-ship",
+      "pills",
+      "make round",
+      "roll up",
+      "curl up",
+      "seduce",
+      "explain away"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "kunyomi": [
+      "まる",
+      "まる.める",
+      "まる.い"
+    ],
+    "strokeCount": 3,
+    "jlptLevel": "N2",
+    "radical": "丶"
+  },
+  {
+    "id": "橋",
+    "character": "橋",
+    "meanings": [
+      "bridge"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "kunyomi": [
+      "はし"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N2",
+    "radical": "木"
+  },
+  {
+    "id": "戸",
+    "character": "戸",
+    "meanings": [
+      "door",
+      "counter for houses",
+      "door radical (no. 63)"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "kunyomi": [
+      "と"
+    ],
+    "strokeCount": 4,
+    "jlptLevel": "N2",
+    "radical": "戶"
+  },
+  {
+    "id": "並",
+    "character": "並",
+    "meanings": [
+      "row",
+      "and",
+      "besides",
+      "as well as",
+      "line up",
+      "rank with",
+      "rival",
+      "equal"
+    ],
+    "onyomi": [
+      "ヘイ",
+      "ホウ"
+    ],
+    "kunyomi": [
+      "な.み",
+      "なみ",
+      "なら.べる",
+      "なら.ぶ",
+      "なら.びに"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N2",
+    "radical": "一"
+  },
+  {
+    "id": "鉄",
+    "character": "鉄",
+    "meanings": [
+      "iron"
+    ],
+    "onyomi": [
+      "テツ"
+    ],
+    "kunyomi": [
+      "くろがね"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N2",
+    "radical": "金"
+  },
+  {
+    "id": "短",
+    "character": "短",
+    "meanings": [
+      "short",
+      "brevity",
+      "fault",
+      "defect",
+      "weak point"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [
+      "みじか.い"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "矢"
+  },
+  {
+    "id": "厚",
+    "character": "厚",
+    "meanings": [
+      "thick",
+      "heavy",
+      "rich",
+      "kind",
+      "cordial",
+      "brazen",
+      "shameless"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "kunyomi": [
+      "あつ.い",
+      "あか"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N2",
+    "radical": "厂"
+  },
+  {
+    "id": "練",
+    "character": "練",
+    "meanings": [
+      "practice",
+      "gloss",
+      "train",
+      "drill",
+      "polish",
+      "refine"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "kunyomi": [
+      "ね.る",
+      "ね.り"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N2",
+    "radical": "糸"
+  },
+  {
+    "id": "軽",
+    "character": "軽",
+    "meanings": [
+      "lightly",
+      "trifling",
+      "unimportant"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ",
+      "キン"
+    ],
+    "kunyomi": [
+      "かる.い",
+      "かろ.やか",
+      "かろ.んじる"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "車"
+  },
+  {
+    "id": "角",
+    "character": "角",
+    "meanings": [
+      "angle",
+      "corner",
+      "square",
+      "horn",
+      "antlers"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "kunyomi": [
+      "かど",
+      "つの"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N2",
+    "radical": "角"
+  },
+  {
+    "id": "池",
+    "character": "池",
+    "meanings": [
+      "pond",
+      "cistern",
+      "pool",
+      "reservoir"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "kunyomi": [
+      "いけ"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N2",
+    "radical": "水"
+  },
+  {
+    "id": "温",
+    "character": "温",
+    "meanings": [
+      "warm"
+    ],
+    "onyomi": [
+      "オン"
+    ],
+    "kunyomi": [
+      "あたた.か",
+      "あたた.かい",
+      "あたた.まる",
+      "あたた.める",
+      "ぬく"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "水"
+  },
+  {
+    "id": "誌",
+    "character": "誌",
+    "meanings": [
+      "document",
+      "records"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 14,
+    "jlptLevel": "N2",
+    "radical": "言"
+  },
+  {
+    "id": "庫",
+    "character": "庫",
+    "meanings": [
+      "warehouse",
+      "storehouse"
+    ],
+    "onyomi": [
+      "コ",
+      "ク"
+    ],
+    "kunyomi": [
+      "くら"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N2",
+    "radical": "广"
+  },
+  {
+    "id": "布",
+    "character": "布",
+    "meanings": [
+      "linen",
+      "cloth",
+      "spread",
+      "distribute"
+    ],
+    "onyomi": [
+      "フ",
+      "ホ"
+    ],
+    "kunyomi": [
+      "ぬの",
+      "し.く",
+      "きれ"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N2",
+    "radical": "巾"
+  },
+  {
+    "id": "汚",
+    "character": "汚",
+    "meanings": [
+      "dirty",
+      "pollute",
+      "disgrace",
+      "rape",
+      "defile"
+    ],
+    "onyomi": [
+      "オ"
+    ],
+    "kunyomi": [
+      "けが.す",
+      "けが.れる",
+      "けが.らわしい",
+      "よご.す",
+      "よご.れる",
+      "きたな.い"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N2",
+    "radical": "水"
+  },
+  {
+    "id": "郵",
+    "character": "郵",
+    "meanings": [
+      "mail",
+      "stagecoach stop"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "邑"
+  },
+  {
+    "id": "弱",
+    "character": "弱",
+    "meanings": [
+      "weak",
+      "frail"
+    ],
+    "onyomi": [
+      "ジャク"
+    ],
+    "kunyomi": [
+      "よわ.い",
+      "よわ.る",
+      "よわ.まる",
+      "よわ.める"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N2",
+    "radical": "弓"
+  },
+  {
+    "id": "章",
+    "character": "章",
+    "meanings": [
+      "badge",
+      "chapter",
+      "composition",
+      "poem",
+      "design"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "立"
+  },
+  {
+    "id": "薄",
+    "character": "薄",
+    "meanings": [
+      "dilute",
+      "thin",
+      "weak (tea)",
+      "pampas grass"
+    ],
+    "onyomi": [
+      "ハク"
+    ],
+    "kunyomi": [
+      "うす.い",
+      "うす-",
+      "-うす",
+      "うす.める",
+      "うす.まる",
+      "うす.らぐ",
+      "うす.ら-",
+      "うす.れる",
+      "すすき"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N2",
+    "radical": "艸"
+  },
+  {
+    "id": "奥",
+    "character": "奥",
+    "meanings": [
+      "heart",
+      "interior"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "kunyomi": [
+      "おく",
+      "おく.まる",
+      "くま"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "大"
+  },
+  {
+    "id": "筆",
+    "character": "筆",
+    "meanings": [
+      "writing brush",
+      "writing",
+      "painting brush",
+      "handwriting"
+    ],
+    "onyomi": [
+      "ヒツ"
+    ],
+    "kunyomi": [
+      "ふで"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "竹"
+  },
+  {
+    "id": "封",
+    "character": "封",
+    "meanings": [
+      "seal",
+      "closing"
+    ],
+    "onyomi": [
+      "フウ",
+      "ホウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 9,
+    "jlptLevel": "N2",
+    "radical": "寸"
+  },
+  {
+    "id": "砂",
+    "character": "砂",
+    "meanings": [
+      "sand"
+    ],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "kunyomi": [
+      "すな"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N2",
+    "radical": "石"
+  },
+  {
+    "id": "塩",
+    "character": "塩",
+    "meanings": [
+      "salt"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "しお"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N2",
+    "radical": "土"
+  },
+  {
+    "id": "緑",
+    "character": "緑",
+    "meanings": [
+      "green"
+    ],
+    "onyomi": [
+      "リョク",
+      "ロク"
+    ],
+    "kunyomi": [
+      "みどり"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N2",
+    "radical": "糸"
+  },
+  {
+    "id": "零",
+    "character": "零",
+    "meanings": [
+      "zero",
+      "spill",
+      "overflow",
+      "nothing",
+      "cipher"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "kunyomi": [
+      "ぜろ",
+      "こぼ.す",
+      "こぼ.れる"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N2",
+    "radical": "雨"
+  },
+  {
+    "id": "荷",
+    "character": "荷",
+    "meanings": [
+      "baggage",
+      "shoulder-pole load",
+      "bear (a burden)",
+      "shoulder (a gun)",
+      "load",
+      "cargo",
+      "freight"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "に"
+    ],
+    "strokeCount": 10,
+    "jlptLevel": "N2",
+    "radical": "艸"
+  },
+  {
+    "id": "黄",
+    "character": "黄",
+    "meanings": [
+      "yellow"
+    ],
+    "onyomi": [
+      "コウ",
+      "オウ"
+    ],
+    "kunyomi": [
+      "き",
+      "こ-"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "黃"
+  },
+  {
+    "id": "甘",
+    "character": "甘",
+    "meanings": [
+      "sweet",
+      "coax",
+      "pamper",
+      "be content",
+      "sugary"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "kunyomi": [
+      "あま.い",
+      "あま.える",
+      "あま.やかす",
+      "うま.い"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N2",
+    "radical": "甘"
+  },
+  {
+    "id": "掃",
+    "character": "掃",
+    "meanings": [
+      "sweep",
+      "brush"
+    ],
+    "onyomi": [
+      "ソウ",
+      "シュ"
+    ],
+    "kunyomi": [
+      "は.く"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "手"
+  },
+  {
+    "id": "乳",
+    "character": "乳",
+    "meanings": [
+      "milk",
+      "breasts"
+    ],
+    "onyomi": [
+      "ニュウ"
+    ],
+    "kunyomi": [
+      "ちち",
+      "ち"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N2",
+    "radical": "乙"
+  },
+  {
+    "id": "紅",
+    "character": "紅",
+    "meanings": [
+      "crimson",
+      "deep red"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "kunyomi": [
+      "べに",
+      "くれない",
+      "あか.い"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N2",
+    "radical": "糸"
+  },
+  {
+    "id": "菜",
+    "character": "菜",
+    "meanings": [
+      "vegetable",
+      "side dish",
+      "greens"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "kunyomi": [
+      "な"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "艸"
+  },
+  {
+    "id": "卵",
+    "character": "卵",
+    "meanings": [
+      "egg",
+      "ovum",
+      "spawn",
+      "roe"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "kunyomi": [
+      "たまご"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N2",
+    "radical": "卩"
+  },
+  {
+    "id": "喫",
+    "character": "喫",
+    "meanings": [
+      "consume",
+      "eat",
+      "drink",
+      "smoke",
+      "receive (a blow)"
+    ],
+    "onyomi": [
+      "キツ"
+    ],
+    "kunyomi": [
+      "の.む"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "口"
+  },
+  {
+    "id": "瓶",
+    "character": "瓶",
+    "meanings": [
+      "bottle",
+      "vial",
+      "jar",
+      "jug",
+      "vat",
+      "urn"
+    ],
+    "onyomi": [
+      "ビン",
+      "ヘイ"
+    ],
+    "kunyomi": [
+      "かめ"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "瓦"
+  },
+  {
+    "id": "咲",
+    "character": "咲",
+    "meanings": [
+      "blossom",
+      "bloom"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "kunyomi": [
+      "さ.く",
+      "-ざき"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N2",
+    "radical": "口"
+  },
+  {
+    "id": "辛",
+    "character": "辛",
+    "meanings": [
+      "spicy",
+      "bitter",
+      "hot",
+      "acrid"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "kunyomi": [
+      "から.い",
+      "つら.い",
+      "-づら.い",
+      "かのと"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N2",
+    "radical": "辛"
+  },
+  {
+    "id": "磨",
+    "character": "磨",
+    "meanings": [
+      "grind",
+      "polish",
+      "scour",
+      "improve",
+      "brush (teeth)"
+    ],
+    "onyomi": [
+      "マ"
+    ],
+    "kunyomi": [
+      "みが.く",
+      "す.る"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N2",
+    "radical": "石"
+  },
+  {
+    "id": "筒",
+    "character": "筒",
+    "meanings": [
+      "cylinder",
+      "pipe",
+      "tube",
+      "gun barrel",
+      "sleeve"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [
+      "つつ"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "竹"
+  },
+  {
+    "id": "鼻",
+    "character": "鼻",
+    "meanings": [
+      "nose",
+      "snout"
+    ],
+    "onyomi": [
+      "ビ"
+    ],
+    "kunyomi": [
+      "はな"
+    ],
+    "strokeCount": 14,
+    "jlptLevel": "N2",
+    "radical": "鼻"
+  },
+  {
+    "id": "机",
+    "character": "机",
+    "meanings": [
+      "desk",
+      "table"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "kunyomi": [
+      "つくえ"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N2",
+    "radical": "木"
+  },
+  {
+    "id": "濯",
+    "character": "濯",
+    "meanings": [
+      "laundry",
+      "wash",
+      "pour on",
+      "rinse"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "kunyomi": [
+      "すす.ぐ",
+      "ゆす.ぐ"
+    ],
+    "strokeCount": 17,
+    "jlptLevel": "N2",
+    "radical": "水"
+  },
+  {
+    "id": "灰",
+    "character": "灰",
+    "meanings": [
+      "ashes",
+      "puckery juice",
+      "cremate"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "kunyomi": [
+      "はい"
+    ],
+    "strokeCount": 6,
+    "jlptLevel": "N2",
+    "radical": "火"
+  },
+  {
+    "id": "菓",
+    "character": "菓",
+    "meanings": [
+      "candy",
+      "cakes",
+      "fruit"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "艸"
+  },
+  {
+    "id": "帽",
+    "character": "帽",
+    "meanings": [
+      "cap",
+      "headgear"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "kunyomi": [
+      "ずきん",
+      "おお.う"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N2",
+    "radical": "巾"
+  },
+  {
+    "id": "涼",
+    "character": "涼",
+    "meanings": [
+      "refreshing",
+      "nice and cool"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "kunyomi": [
+      "すず.しい",
+      "すず.む",
+      "すず.やか",
+      "うす.い",
+      "ひや.す",
+      "まことに"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "水"
+  },
+  {
+    "id": "符",
+    "character": "符",
+    "meanings": [
+      "token",
+      "sign",
+      "mark",
+      "tally",
+      "charm"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 11,
+    "jlptLevel": "N2",
+    "radical": "竹"
+  },
+  {
+    "id": "皿",
+    "character": "皿",
+    "meanings": [
+      "dish",
+      "a helping",
+      "plate"
+    ],
+    "onyomi": [
+      "ベイ"
+    ],
+    "kunyomi": [
+      "さら"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N2",
+    "radical": "皿"
+  },
+  {
+    "id": "曇",
+    "character": "曇",
+    "meanings": [
+      "cloudy weather",
+      "cloud up"
+    ],
+    "onyomi": [
+      "ドン"
+    ],
+    "kunyomi": [
+      "くも.る"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N2",
+    "radical": "日"
+  },
+  {
+    "id": "結",
+    "character": "結",
+    "meanings": [
+      "tie",
+      "bind",
+      "contract",
+      "join",
+      "organize",
+      "do up hair",
+      "fasten"
+    ],
+    "onyomi": [
+      "ケツ",
+      "ケチ"
+    ],
+    "kunyomi": [
+      "むす.ぶ",
+      "ゆ.う",
+      "ゆ.わえる"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N1",
+    "radical": "糸"
+  },
+  {
+    "id": "授",
+    "character": "授",
+    "meanings": [
+      "impart",
+      "instruct",
+      "grant",
+      "confer"
+    ],
+    "onyomi": [
+      "ジュ"
+    ],
+    "kunyomi": [
+      "さず.ける",
+      "さず.かる"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N1",
+    "radical": "手"
+  },
+  {
+    "id": "弁",
+    "character": "弁",
+    "meanings": [
+      "valve",
+      "petal",
+      "braid",
+      "speech",
+      "dialect",
+      "discrimination",
+      "dispose of",
+      "distinguish",
+      "conical cap"
+    ],
+    "onyomi": [
+      "ベン",
+      "ヘン"
+    ],
+    "kunyomi": [
+      "かんむり",
+      "わきま.える",
+      "わ.ける",
+      "はなびら",
+      "あらそ.う"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N1",
+    "radical": "廾"
+  },
+  {
+    "id": "脱",
+    "character": "脱",
+    "meanings": [
+      "undress",
+      "removing",
+      "escape from",
+      "get rid of",
+      "be left out",
+      "take off"
+    ],
+    "onyomi": [
+      "ダツ"
+    ],
+    "kunyomi": [
+      "ぬ.ぐ",
+      "ぬ.げる"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N1",
+    "radical": "肉"
+  },
+  {
+    "id": "締",
+    "character": "締",
+    "meanings": [
+      "tighten",
+      "tie",
+      "shut",
+      "lock",
+      "fasten"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "kunyomi": [
+      "し.まる",
+      "し.まり",
+      "し.める",
+      "-し.め",
+      "-じ.め"
+    ],
+    "strokeCount": 15,
+    "jlptLevel": "N1",
+    "radical": "糸"
+  },
+  {
+    "id": "弾",
+    "character": "弾",
+    "meanings": [
+      "bullet",
+      "twang",
+      "flip",
+      "snap"
+    ],
+    "onyomi": [
+      "ダン",
+      "タン"
+    ],
+    "kunyomi": [
+      "ひ.く",
+      "-ひ.き",
+      "はず.む",
+      "たま",
+      "はじ.く",
+      "はじ.ける",
+      "ただ.す",
+      "はじ.きゆみ"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N1",
+    "radical": "弓"
+  },
+  {
+    "id": "撮",
+    "character": "撮",
+    "meanings": [
+      "snapshot",
+      "take pictures"
+    ],
+    "onyomi": [
+      "サツ"
+    ],
+    "kunyomi": [
+      "と.る",
+      "つま.む",
+      "-ど.り"
+    ],
+    "strokeCount": 15,
+    "jlptLevel": "N1",
+    "radical": "手"
+  },
+  {
+    "id": "誕",
+    "character": "誕",
+    "meanings": [
+      "nativity",
+      "be born",
+      "declension",
+      "lie",
+      "be arbitrary"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "kunyomi": [],
+    "strokeCount": 15,
+    "jlptLevel": "N1",
+    "radical": "言"
+  },
+  {
+    "id": "隣",
+    "character": "隣",
+    "meanings": [
+      "neighboring"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "kunyomi": [
+      "とな.る",
+      "となり"
+    ],
+    "strokeCount": 16,
+    "jlptLevel": "N1",
+    "radical": "阜"
+  },
+  {
+    "id": "嫌",
+    "character": "嫌",
+    "meanings": [
+      "dislike",
+      "detest",
+      "hate"
+    ],
+    "onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "kunyomi": [
+      "きら.う",
+      "きら.い",
+      "いや"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N1",
+    "radical": "女"
+  },
+  {
+    "id": "狭",
+    "character": "狭",
+    "meanings": [
+      "cramped",
+      "narrow",
+      "contract",
+      "tight"
+    ],
+    "onyomi": [
+      "キョウ",
+      "コウ"
+    ],
+    "kunyomi": [
+      "せま.い",
+      "せば.める",
+      "せば.まる",
+      "さ"
+    ],
+    "strokeCount": 9,
+    "jlptLevel": "N1",
+    "radical": "犬"
+  },
+  {
+    "id": "暖",
+    "character": "暖",
+    "meanings": [
+      "warmth"
+    ],
+    "onyomi": [
+      "ダン",
+      "ノン"
+    ],
+    "kunyomi": [
+      "あたた.か",
+      "あたた.かい",
+      "あたた.まる",
+      "あたた.める"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N1",
+    "radical": "日"
+  },
+  {
+    "id": "暇",
+    "character": "暇",
+    "meanings": [
+      "spare time",
+      "rest",
+      "leisure",
+      "time",
+      "leave of absence"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "kunyomi": [
+      "ひま",
+      "いとま"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N1",
+    "radical": "日"
+  },
+  {
+    "id": "玄",
+    "character": "玄",
+    "meanings": [
+      "mysterious",
+      "occultness",
+      "black",
+      "deep",
+      "profound"
+    ],
+    "onyomi": [
+      "ゲン"
+    ],
+    "kunyomi": [
+      "くろ",
+      "くろ.い"
+    ],
+    "strokeCount": 5,
+    "jlptLevel": "N1",
+    "radical": "玄"
+  },
+  {
+    "id": "暑",
+    "character": "暑",
+    "meanings": [
+      "sultry",
+      "hot",
+      "summer heat"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N1",
+    "radical": "日"
+  },
+  {
+    "id": "糖",
+    "character": "糖",
+    "meanings": [
+      "sugar"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 16,
+    "jlptLevel": "N1",
+    "radical": "米"
+  },
+  {
+    "id": "鏡",
+    "character": "鏡",
+    "meanings": [
+      "mirror",
+      "speculum",
+      "barrel-head",
+      "round rice-cake offering"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "kunyomi": [
+      "かがみ"
+    ],
+    "strokeCount": 19,
+    "jlptLevel": "N1",
+    "radical": "金"
+  },
+  {
+    "id": "眼",
+    "character": "眼",
+    "meanings": [
+      "eyeball"
+    ],
+    "onyomi": [
+      "ガン",
+      "ゲン"
+    ],
+    "kunyomi": [
+      "まなこ",
+      "め"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N1",
+    "radical": "目"
+  },
+  {
+    "id": "棚",
+    "character": "棚",
+    "meanings": [
+      "shelf",
+      "ledge",
+      "rack",
+      "mount",
+      "mantle",
+      "trellis"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "kunyomi": [
+      "たな",
+      "-だな"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N1",
+    "radical": "木"
+  },
+  {
+    "id": "廊",
+    "character": "廊",
+    "meanings": [
+      "corridor",
+      "hall",
+      "tower"
+    ],
+    "onyomi": [
+      "ロウ"
+    ],
+    "kunyomi": [],
+    "strokeCount": 12,
+    "jlptLevel": "N1",
+    "radical": "广"
+  },
+  {
+    "id": "邪",
+    "character": "邪",
+    "meanings": [
+      "wicked",
+      "injustice",
+      "wrong"
+    ],
+    "onyomi": [
+      "ジャ"
+    ],
+    "kunyomi": [
+      "よこし.ま"
+    ],
+    "strokeCount": 8,
+    "jlptLevel": "N1",
+    "radical": "邑"
+  },
+  {
+    "id": "傘",
+    "character": "傘",
+    "meanings": [
+      "umbrella"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "kunyomi": [
+      "かさ"
+    ],
+    "strokeCount": 12,
+    "jlptLevel": "N1",
+    "radical": "人"
+  },
+  {
+    "id": "鉛",
+    "character": "鉛",
+    "meanings": [
+      "lead"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "kunyomi": [
+      "なまり"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N1",
+    "radical": "金"
+  },
+  {
+    "id": "伯",
+    "character": "伯",
+    "meanings": [
+      "chief",
+      "count",
+      "earl",
+      "uncle",
+      "Brazil"
+    ],
+    "onyomi": [
+      "ハク"
+    ],
+    "kunyomi": [],
+    "strokeCount": 7,
+    "jlptLevel": "N1",
+    "radical": "人"
+  },
+  {
+    "id": "豚",
+    "character": "豚",
+    "meanings": [
+      "pork",
+      "pig"
+    ],
+    "onyomi": [
+      "トン"
+    ],
+    "kunyomi": [
+      "ぶた"
+    ],
+    "strokeCount": 11,
+    "jlptLevel": "N1",
+    "radical": "豕"
+  },
+  {
+    "id": "鶏",
+    "character": "鶏",
+    "meanings": [
+      "chicken"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "kunyomi": [
+      "にわとり",
+      "とり"
+    ],
+    "strokeCount": 19,
+    "jlptLevel": "N1",
+    "radical": "鳥"
+  },
+  {
+    "id": "呂",
+    "character": "呂",
+    "meanings": [
+      "spine",
+      "backbone"
+    ],
+    "onyomi": [
+      "ロ",
+      "リョ"
+    ],
+    "kunyomi": [
+      "せぼね"
+    ],
+    "strokeCount": 7,
+    "jlptLevel": "N1",
+    "radical": "口"
+  },
+  {
+    "id": "煩",
+    "character": "煩",
+    "meanings": [
+      "anxiety",
+      "trouble",
+      "worry",
+      "pain",
+      "ill",
+      "annoy",
+      "nuisance",
+      "irksome"
+    ],
+    "onyomi": [
+      "ハン",
+      "ボン"
+    ],
+    "kunyomi": [
+      "わずら.う",
+      "わずら.わす",
+      "うるさ.がる",
+      "うるさ.い"
+    ],
+    "strokeCount": 13,
+    "jlptLevel": "N1",
+    "radical": "火"
+  }
+]
