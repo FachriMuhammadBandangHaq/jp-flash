@@ -1,0 +1,38 @@
+.page,
+.summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 16px;
+}
+
+.progress {
+  margin: 0;
+  font-size: 14px;
+}
+
+.progressBar {
+  width: 100%;
+  max-width: 520px;
+  accent-color: var(--accent);
+}
+
+.actions {
+  display: flex;
+  gap: 12px;
+}
+
+.actions button {
+  padding: 10px 20px;
+  font: inherit;
+  color: var(--text-h);
+  background: var(--accent-bg);
+  border: 1px solid var(--accent-border);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.actions button:hover {
+  background: var(--accent-border);
+}

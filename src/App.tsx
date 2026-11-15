@@ -1,28 +1,20 @@
 import './App.css'
-import { dataMeta, dictionary, getVocabularyForKanji } from './data'
+import { dictionary } from './data'
+import { FlashcardPage } from './features/flashcard'
 
-// Sementara: halaman ringkas untuk memastikan data dan relasi sudah tersambung.
-// Akan diganti dengan UI flashcard di step berikutnya.
+const n5Vocabulary = dictionary.vocabularyList.filter((v) => v.jlptLevel === 'N5')
+
 function App() {
-  const demoKanji = '日'
-  const demoWords = getVocabularyForKanji(dictionary, demoKanji)
-
   return (
-    <main>
-      <h1>JP Flash</h1>
-      <p>
-        {dataMeta.counts.vocabulary} kosakata · {dataMeta.counts.kanji} kanji (OpenJLPT{' '}
-        {dataMeta.sourceVersion})
-      </p>
+    <>
+      <header>
+        <h1>JP Flash</h1>
+        <p>Flashcard kosakata JLPT N5</p>
+      </header>
 
-      <h2>Kosakata yang memakai {demoKanji}</h2>
-      <ul>
-        {demoWords.map((v) => (
-          <li key={v.id}>
-            {v.word} ({v.reading}) — {v.meanings.join(', ')}
-          </li>
-        ))}
-      </ul>
+      <main>
+        <FlashcardPage dictionary={dictionary} vocabulary={n5Vocabulary} />
+      </main>
 
       <footer>
         <small>
@@ -31,7 +23,7 @@ function App() {
           JMdict and KANJIDIC2 (EDRDG), Jonathan Waller&apos;s JLPT lists, and Tatoeba.
         </small>
       </footer>
-    </main>
+    </>
   )
 }
 
