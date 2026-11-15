@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { parseFurigana } from './furigana'
+import { parseFurigana } from './parseFurigana'
 
 describe('parseFurigana', () => {
   it('memisahkan kanji ber-furigana dan teks biasa', () => {

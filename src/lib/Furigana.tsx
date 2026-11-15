@@ -1,4 +1,4 @@
-import { parseFurigana } from './furigana'
+import { parseFurigana } from './parseFurigana'
 
 interface FuriganaProps {
   /** Teks berformat `{漢字|かんじ}`. */
